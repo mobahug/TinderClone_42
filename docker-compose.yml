@@ -1,0 +1,85 @@
+services:
+  server:
+    container_name: matcha_server
+    build: .
+    ports:
+      - "3000:3000"
+    links:
+      - db
+    volumes:
+      - ./server/:/home/node/server/
+      - /home/node/server/node_modules
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      NODE_ENV: development
+      DB_USER: ${DB_USER}
+      DB_HOST: ${DB_HOST}
+      DB_PASSWORD: ${DB_PASSWORD}
+      DB_NAME: ${DB_NAME}
+    command: npm run dev
+
+  client:
+    container_name: matcha_client
+    build:
+      dockerfile: Dockerfile_client
+      context: .
+    ports:
+      - "3001:3001"
+    links:
+      - server
+    volumes:
+      - ./client/:/home/node/client/
+      - /home/node/client/node_modules
+    depends_on:
+      - server
+    environment:
+      NODE_ENV: development
+    command: npm start
+
+  db:
+    container_name: matcha_db
+    image: ramazanpolat/postgres_cron:11
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_DB: ${DB_NAME}
+      TZ: "Europe/Helsinki"
+      PGTZ: "Europe/Helsinki"
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      timeout: 20s
+      retries: 10
+
+  socket:
+    container_name: matcha_socket
+    build:
+      dockerfile: Dockerfile_socket
+      context: .
+    ports:
+      - "3002:3002"
+    links:
+      - server
+      - client
+    volumes:
+      - ./socket/:/home/node/socket/
+      - /home/node/socket/node_modules
+    depends_on:
+      - server
+    environment:
+      NODE_ENV: development
+    command: npm start
+
+  # pgadmin-compose:
+  #   image: dpage/pgadmin4
+  #   environment:
+  #     PGADMIN_DEFAULT_EMAIL: "root@root.com"
+  #     PGADMIN_DEFAULT_PASSWORD: ${DB_PASSWORD}
+  #   ports:
+  #     - "16543:80"
+  #   depends_on:
+  #     - db

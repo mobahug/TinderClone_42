@@ -1,0 +1,48 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon -L --ignore feedback.json server.js",
+    "migrate": "node-pg-migrate",
+    "test": "jest --verbose"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "db-migrate-pg": "^1.2.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "geoip-lite": "^1.4.5",
+    "json-beautify": "^1.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "node-pg-migrate": "^6.2.2",
+    "nodemailer": "^6.7.7",
+    "pg": "^8.7.3",
+    "postgres-bytea": "^3.0.0",
+    "random-user-api": "^0.0.5",
+    "socket.io": "^4.5.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^8.18.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "jest": "^28.1.2",
+    "nodemon": "^1.19.4",
+    "prettier": "^2.7.1",
+    "superagent": "^8.0.0",
+    "supertest": "^6.2.4"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}

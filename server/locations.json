@@ -1,0 +1,4937 @@
+[
+  {
+    "city": "Kolari",
+    "latitude": "67.42592973221021",
+    "longitude": "24.217401888417513"
+  },
+  {
+    "city": "Paltamo",
+    "latitude": "64.41049860221615",
+    "longitude": "27.268423590019996"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.30479021635797",
+    "longitude": "29.123232242725425"
+  },
+  {
+    "city": "Kärsämäki",
+    "latitude": "64.01617806114683",
+    "longitude": "25.591753439852884"
+  },
+  {
+    "city": "Virrat",
+    "latitude": "62.14948820572801",
+    "longitude": "24.03563354341002"
+  },
+  {
+    "city": "Naantali",
+    "latitude": "60.44601853602836",
+    "longitude": "21.836808914462562"
+  },
+  {
+    "city": "Pelkosenniemi",
+    "latitude": "66.9053795197921",
+    "longitude": "27.85742530471628"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.30640500382125",
+    "longitude": "27.837492555141992"
+  },
+  {
+    "city": "Lapinlahti",
+    "latitude": "63.35047203379213",
+    "longitude": "27.868844657182002"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.46541069366084",
+    "longitude": "27.811406760750973"
+  },
+  {
+    "city": "Siikalatva",
+    "latitude": "64.17165532995728",
+    "longitude": "25.739379855392603"
+  },
+  {
+    "city": "Rantasalmi",
+    "latitude": "62.20596519683054",
+    "longitude": "28.18020744843301"
+  },
+  {
+    "city": "Sotkamo",
+    "latitude": "63.95682187922354",
+    "longitude": "28.74341226323147"
+  },
+  {
+    "city": "Kolari",
+    "latitude": "66.97968908528094",
+    "longitude": "24.719366426451344"
+  },
+  {
+    "city": "Hyrynsalmi",
+    "latitude": "64.82893227936063",
+    "longitude": "28.184968840452935"
+  },
+  {
+    "city": "Lahti",
+    "latitude": "60.98733413923421",
+    "longitude": "25.952083836893742"
+  },
+  {
+    "city": "Utajärvi",
+    "latitude": "64.9977729555474",
+    "longitude": "27.120970130692477"
+  },
+  {
+    "city": "Paltamo",
+    "latitude": "64.34764861641226",
+    "longitude": "27.93688217979078"
+  },
+  {
+    "city": "Hirvensalmi",
+    "latitude": "61.62153748846448",
+    "longitude": "26.701650276451822"
+  },
+  {
+    "city": "Nurmes",
+    "latitude": "63.684835976997675",
+    "longitude": "29.196246703009866"
+  },
+  {
+    "city": "Kurikka",
+    "latitude": "62.53831312002506",
+    "longitude": "22.535613649412607"
+  },
+  {
+    "city": "Salo",
+    "latitude": "60.26744888520475",
+    "longitude": "23.274086368993398"
+  },
+  {
+    "city": "Lieksa",
+    "latitude": "63.57829435020366",
+    "longitude": "30.067246923391835"
+  },
+  {
+    "city": "Vieremä",
+    "latitude": "63.844676280377186",
+    "longitude": "26.760036386180367"
+  },
+  {
+    "city": "Joensuu",
+    "latitude": "62.54392137703496",
+    "longitude": "30.224919993395375"
+  },
+  {
+    "city": "Tuusniemi",
+    "latitude": "62.758824395256056",
+    "longitude": "28.436031278891615"
+  },
+  {
+    "city": "Tohmajärvi",
+    "latitude": "62.25916540874486",
+    "longitude": "30.4439357320845"
+  },
+  {
+    "city": "Lapua",
+    "latitude": "62.850502594318385",
+    "longitude": "23.14226040056194"
+  },
+  {
+    "city": "Äänekoski",
+    "latitude": "62.85107715010042",
+    "longitude": "25.720421177317622"
+  },
+  {
+    "city": "Haapajärvi",
+    "latitude": "63.64708521165028",
+    "longitude": "25.55419987553459"
+  },
+  {
+    "city": "Ylitornio",
+    "latitude": "66.33808838877476",
+    "longitude": "23.85074625627638"
+  },
+  {
+    "city": "Lestijärvi",
+    "latitude": "63.4224521138476",
+    "longitude": "24.898665491677654"
+  },
+  {
+    "city": "Eura",
+    "latitude": "60.90166143371652",
+    "longitude": "22.1903778467707"
+  },
+  {
+    "city": "Oulu",
+    "latitude": "65.31363456595984",
+    "longitude": "25.62979001860551"
+  },
+  {
+    "city": "Pelkosenniemi",
+    "latitude": "67.33773525917559",
+    "longitude": "27.398294181200814"
+  },
+  {
+    "city": "Ristijärvi",
+    "latitude": "64.47012448151139",
+    "longitude": "28.388880049990725"
+  },
+  {
+    "city": "Lieksa",
+    "latitude": "63.114413586869176",
+    "longitude": "30.168593751849432"
+  },
+  {
+    "city": "Lumijoki",
+    "latitude": "64.86960898103354",
+    "longitude": "25.07389040837757"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.70893958798818",
+    "longitude": "28.52095165173175"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "65.73356023591556",
+    "longitude": "26.465462588183772"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.19802139471103",
+    "longitude": "27.60835141996824"
+  },
+  {
+    "city": "Pyhäjoki",
+    "latitude": "64.4429729654587",
+    "longitude": "24.29045308492563"
+  },
+  {
+    "city": "Pieksämäki",
+    "latitude": "62.20012937120974",
+    "longitude": "26.968787988354183"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.60509378303534",
+    "longitude": "25.385818544041573"
+  },
+  {
+    "city": "Sastamala",
+    "latitude": "61.37780135399336",
+    "longitude": "23.051315235341512"
+  },
+  {
+    "city": "Tervola",
+    "latitude": "66.17341863648963",
+    "longitude": "24.83072463137117"
+  },
+  {
+    "city": "Keuruu",
+    "latitude": "62.335503321908604",
+    "longitude": "24.049065411369064"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.70054199655394",
+    "longitude": "28.09914454414978"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.272597294016",
+    "longitude": "26.455729472771907"
+  },
+  {
+    "city": "Ähtäri",
+    "latitude": "62.55844266407325",
+    "longitude": "24.00707026827574"
+  },
+  {
+    "city": "Kalajoki",
+    "latitude": "64.0378831568743",
+    "longitude": "23.841741628314253"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.51292549795546",
+    "longitude": "26.29261577428608"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.42691358012816",
+    "longitude": "26.907237521027227"
+  },
+  {
+    "city": "Sotkamo",
+    "latitude": "63.89224231293721",
+    "longitude": "28.17422583103367"
+  },
+  {
+    "city": "Jyväskylä",
+    "latitude": "62.37869014487418",
+    "longitude": "25.570933483185183"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.92409088465774",
+    "longitude": "28.992622079398473"
+  },
+  {
+    "city": "Kinnula",
+    "latitude": "63.34845408771156",
+    "longitude": "25.028530200785283"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.70928241877962",
+    "longitude": "28.032778264631148"
+  },
+  {
+    "city": "Somero",
+    "latitude": "60.61829684141573",
+    "longitude": "23.33279113311479"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.31982641167224",
+    "longitude": "26.636884134828122"
+  },
+  {
+    "city": "Keuruu",
+    "latitude": "62.37185838452625",
+    "longitude": "24.502324983593564"
+  },
+  {
+    "city": "Savonlinna",
+    "latitude": "61.83562494773909",
+    "longitude": "29.117133911561652"
+  },
+  {
+    "city": "Pieksämäki",
+    "latitude": "62.209130800922125",
+    "longitude": "27.306295381155568"
+  },
+  {
+    "city": "Muonio",
+    "latitude": "67.61579096662885",
+    "longitude": "23.64481718013846"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.53104068461835",
+    "longitude": "23.831507485328117"
+  },
+  {
+    "city": "Tornio",
+    "latitude": "66.0338174087259",
+    "longitude": "24.12599757603346"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.70167936617312",
+    "longitude": "28.969221893699437"
+  },
+  {
+    "city": "Sotkamo",
+    "latitude": "64.31962653786566",
+    "longitude": "28.570520850876665"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.8316471342631",
+    "longitude": "26.765239492685676"
+  },
+  {
+    "city": "Juuka",
+    "latitude": "63.311111385143306",
+    "longitude": "29.167322493055295"
+  },
+  {
+    "city": "Tornio",
+    "latitude": "66.15726957037943",
+    "longitude": "24.068491666421682"
+  },
+  {
+    "city": "Ähtäri",
+    "latitude": "62.508395055535004",
+    "longitude": "24.41958428553961"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "63.88251933720905",
+    "longitude": "30.15859469537113"
+  },
+  {
+    "city": "Virrat",
+    "latitude": "62.33967671617184",
+    "longitude": "23.906265390438687"
+  },
+  {
+    "city": "Hämeenlinna",
+    "latitude": "61.26682929609347",
+    "longitude": "24.965994061582922"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.9554807092854",
+    "longitude": "27.224989120753122"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.26181083969041",
+    "longitude": "25.887980911651578"
+  },
+  {
+    "city": "Puolanka",
+    "latitude": "65.13548924367696",
+    "longitude": "28.197720589550684"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.5706344643078",
+    "longitude": "26.884517789050488"
+  },
+  {
+    "city": "Kurikka",
+    "latitude": "62.74238621779875",
+    "longitude": "21.936408139057175"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.51579694689468",
+    "longitude": "28.360016109753214"
+  },
+  {
+    "city": "Kemijärvi",
+    "latitude": "66.90942849656548",
+    "longitude": "26.802476904261148"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "64.74078862080849",
+    "longitude": "29.967549443309213"
+  },
+  {
+    "city": "Hämeenlinna",
+    "latitude": "61.00871035903818",
+    "longitude": "24.96514485158695"
+  },
+  {
+    "city": "Taivalkoski",
+    "latitude": "65.76943708526939",
+    "longitude": "28.499097315425193"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "68.0897204046841",
+    "longitude": "24.698261970745854"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.2751537860411",
+    "longitude": "27.878990877175244"
+  },
+  {
+    "city": "Korsholm",
+    "latitude": "63.02495957760257",
+    "longitude": "21.720024012442316"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.05376210124436",
+    "longitude": "27.449479654447284"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.07983126991039",
+    "longitude": "28.414407156803296"
+  },
+  {
+    "city": "Ilomantsi",
+    "latitude": "62.617819196197985",
+    "longitude": "30.7513980512165"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.66893574985195",
+    "longitude": "27.12078191846515"
+  },
+  {
+    "city": "Pälkäne",
+    "latitude": "61.31910951268577",
+    "longitude": "24.728141121371177"
+  },
+  {
+    "city": "Kurikka",
+    "latitude": "62.83698757425575",
+    "longitude": "21.788415657913927"
+  },
+  {
+    "city": "Iisalmi",
+    "latitude": "63.50104422894957",
+    "longitude": "27.156755085773497"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.35505752796365",
+    "longitude": "26.987651346184503"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.99172279221949",
+    "longitude": "27.557781731982853"
+  },
+  {
+    "city": "Oulu",
+    "latitude": "65.12032457185624",
+    "longitude": "25.930886471548657"
+  },
+  {
+    "city": "Oulu",
+    "latitude": "65.3263993006032",
+    "longitude": "25.800892573940875"
+  },
+  {
+    "city": "Lestijärvi",
+    "latitude": "63.42625776440401",
+    "longitude": "24.741650862613465"
+  },
+  {
+    "city": "Siikalatva",
+    "latitude": "64.41586192629529",
+    "longitude": "25.840535652737707"
+  },
+  {
+    "city": "Perho",
+    "latitude": "63.283124917419435",
+    "longitude": "24.532093851352705"
+  },
+  {
+    "city": "Taipalsaari",
+    "latitude": "61.20734420109992",
+    "longitude": "27.837994178865493"
+  },
+  {
+    "city": "Teuva",
+    "latitude": "62.44315826799318",
+    "longitude": "21.692350233069586"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.43810863914558",
+    "longitude": "28.13342557110059"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.94033968843851",
+    "longitude": "28.932659918680038"
+  },
+  {
+    "city": "Haapavesi",
+    "latitude": "64.25421841252393",
+    "longitude": "25.198436405073423"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "65.9314437883224",
+    "longitude": "29.845069069754796"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "65.89857807961516",
+    "longitude": "26.76978940919883"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.35089487664294",
+    "longitude": "26.807205525547424"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "65.74632344852098",
+    "longitude": "28.776815802846727"
+  },
+  {
+    "city": "Taivalkoski",
+    "latitude": "65.39205577235545",
+    "longitude": "28.299448550729117"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.21719448052531",
+    "longitude": "26.595986158143717"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.47999486275124",
+    "longitude": "28.10994680445343"
+  },
+  {
+    "city": "Vaala",
+    "latitude": "64.32358734524374",
+    "longitude": "26.61036546006965"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.62070527623912",
+    "longitude": "26.007383814592515"
+  },
+  {
+    "city": "Posio",
+    "latitude": "66.18650113651502",
+    "longitude": "28.693709866766735"
+  },
+  {
+    "city": "Leppävirta",
+    "latitude": "62.55120776201618",
+    "longitude": "27.49445704412248"
+  },
+  {
+    "city": "Sotkamo",
+    "latitude": "63.81209549605714",
+    "longitude": "28.286351420680734"
+  },
+  {
+    "city": "Ristijärvi",
+    "latitude": "64.3569556721749",
+    "longitude": "28.577876425198465"
+  },
+  {
+    "city": "Padasjoki",
+    "latitude": "61.28962374574993",
+    "longitude": "25.256092697582396"
+  },
+  {
+    "city": "Kiuruvesi",
+    "latitude": "63.86983058212906",
+    "longitude": "26.401039604690016"
+  },
+  {
+    "city": "Sotkamo",
+    "latitude": "64.1616105626708",
+    "longitude": "28.766648101878864"
+  },
+  {
+    "city": "Forssa",
+    "latitude": "60.93791092890998",
+    "longitude": "23.76917536923746"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.37391892463653",
+    "longitude": "27.13708271262153"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.54296090008734",
+    "longitude": "27.55568923725499"
+  },
+  {
+    "city": "Kannonkoski",
+    "latitude": "63.06370443962084",
+    "longitude": "25.190390034568733"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "66.11377456468337",
+    "longitude": "29.870764302108558"
+  },
+  {
+    "city": "Rajamäki",
+    "latitude": "60.55100565864564",
+    "longitude": "24.77046004171834"
+  },
+  {
+    "city": "Salo",
+    "latitude": "60.290298181517436",
+    "longitude": "23.219350146726317"
+  },
+  {
+    "city": "Haapajärvi",
+    "latitude": "63.80509109654594",
+    "longitude": "25.54018227578515"
+  },
+  {
+    "city": "Hämeenkyrö",
+    "latitude": "61.661489747827666",
+    "longitude": "23.095155333787776"
+  },
+  {
+    "city": "Sysmä",
+    "latitude": "61.391868805114214",
+    "longitude": "25.51662711522995"
+  },
+  {
+    "city": "Viitasaari",
+    "latitude": "62.94312786172951",
+    "longitude": "26.091317596851276"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.14130367889585",
+    "longitude": "26.02836943718303"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.23306888004825",
+    "longitude": "28.131706987015903"
+  },
+  {
+    "city": "Vieremä",
+    "latitude": "63.94303995640677",
+    "longitude": "26.812514880772717"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.19434227433837",
+    "longitude": "23.845213235045307"
+  },
+  {
+    "city": "Merikarvia",
+    "latitude": "61.77832208082919",
+    "longitude": "21.499189846764533"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "67.11165220592171",
+    "longitude": "25.582472461465528"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.22430918377599",
+    "longitude": "27.293706406116307"
+  },
+  {
+    "city": "Taivalkoski",
+    "latitude": "65.79685250243507",
+    "longitude": "28.16578231154635"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "66.25461367508998",
+    "longitude": "29.612209323977357"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.64333129932118",
+    "longitude": "26.0943254032335"
+  },
+  {
+    "city": "Tornio",
+    "latitude": "65.8720540932264",
+    "longitude": "24.432063391148233"
+  },
+  {
+    "city": "Pielavesi",
+    "latitude": "63.38207924021942",
+    "longitude": "26.325671608001745"
+  },
+  {
+    "city": "Suonenjoki",
+    "latitude": "62.588773169245414",
+    "longitude": "27.22093304937061"
+  },
+  {
+    "city": "Kolari",
+    "latitude": "67.00633854586847",
+    "longitude": "24.526316820897332"
+  },
+  {
+    "city": "Ylöjärvi",
+    "latitude": "61.793624319989554",
+    "longitude": "23.722825072403626"
+  },
+  {
+    "city": "Posio",
+    "latitude": "66.11743910055152",
+    "longitude": "28.258426054695313"
+  },
+  {
+    "city": "Reisjärvi",
+    "latitude": "63.62674425403707",
+    "longitude": "25.096123215433522"
+  },
+  {
+    "city": "Keuruu",
+    "latitude": "62.44327814112402",
+    "longitude": "24.549221967771196"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.52080979188663",
+    "longitude": "25.227094565422366"
+  },
+  {
+    "city": "Kärsämäki",
+    "latitude": "63.9427649248129",
+    "longitude": "25.54904523995295"
+  },
+  {
+    "city": "Iittala",
+    "latitude": "61.081010835897395",
+    "longitude": "24.161591790300264"
+  },
+  {
+    "city": "Kokemäki",
+    "latitude": "61.30225939651222",
+    "longitude": "22.476952371745732"
+  },
+  {
+    "city": "Joensuu",
+    "latitude": "62.39949500625037",
+    "longitude": "30.438895044217396"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.8268725309236",
+    "longitude": "29.124167274597927"
+  },
+  {
+    "city": "Kangasniemi",
+    "latitude": "61.9567794023542",
+    "longitude": "26.57176173499692"
+  },
+  {
+    "city": "Oulu",
+    "latitude": "65.17235571857567",
+    "longitude": "25.421094182094006"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.32716944607073",
+    "longitude": "26.41047249389021"
+  },
+  {
+    "city": "Juuka",
+    "latitude": "63.16927511486058",
+    "longitude": "28.909895993956365"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "64.54909110815059",
+    "longitude": "29.786442431186387"
+  },
+  {
+    "city": "Närpes",
+    "latitude": "62.51804554277912",
+    "longitude": "21.352789143494554"
+  },
+  {
+    "city": "Tohmajärvi",
+    "latitude": "62.19363556416075",
+    "longitude": "30.467137112236333"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "62.81490821468704",
+    "longitude": "27.00099183075167"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.81361389478907",
+    "longitude": "21.91960004933526"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.5230492803082",
+    "longitude": "27.86448507462841"
+  },
+  {
+    "city": "Heinävesi",
+    "latitude": "62.57671926830142",
+    "longitude": "28.78292896930401"
+  },
+  {
+    "city": "Kangasniemi",
+    "latitude": "62.16476559698461",
+    "longitude": "26.597865446764224"
+  },
+  {
+    "city": "Sastamala",
+    "latitude": "61.38789999062636",
+    "longitude": "23.116660463849072"
+  },
+  {
+    "city": "Hamina",
+    "latitude": "60.710225289002516",
+    "longitude": "27.30472285754903"
+  },
+  {
+    "city": "Lahti",
+    "latitude": "60.939932862314734",
+    "longitude": "25.593905213600625"
+  },
+  {
+    "city": "Muonio",
+    "latitude": "68.04246749266761",
+    "longitude": "23.551645010662508"
+  },
+  {
+    "city": "Pielavesi",
+    "latitude": "63.423399269253544",
+    "longitude": "26.92924787124106"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.69363355036784",
+    "longitude": "25.41877830585624"
+  },
+  {
+    "city": "Puolanka",
+    "latitude": "65.1004472056431",
+    "longitude": "28.0055926392484"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.36123033275372",
+    "longitude": "26.002189962843524"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "62.81275082295711",
+    "longitude": "27.242116057868476"
+  },
+  {
+    "city": "Merikarvia",
+    "latitude": "61.975632476745254",
+    "longitude": "21.74781589003068"
+  },
+  {
+    "city": "Pielavesi",
+    "latitude": "63.222431457731616",
+    "longitude": "26.963535404922887"
+  },
+  {
+    "city": "Lieksa",
+    "latitude": "63.069469967336744",
+    "longitude": "29.87611993251498"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.85015444028681",
+    "longitude": "27.809421057933857"
+  },
+  {
+    "city": "Lapinlahti",
+    "latitude": "63.242785066763936",
+    "longitude": "27.339183453518913"
+  },
+  {
+    "city": "Lieksa",
+    "latitude": "63.366508927922396",
+    "longitude": "30.663943959476292"
+  },
+  {
+    "city": "Posio",
+    "latitude": "66.31055985713931",
+    "longitude": "28.487086688598296"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "63.205985132444596",
+    "longitude": "27.97026773807919"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.52938459795514",
+    "longitude": "26.612840607366596"
+  },
+  {
+    "city": "Ii",
+    "latitude": "65.54332917583184",
+    "longitude": "25.4574146140467"
+  },
+  {
+    "city": "Honkajoki",
+    "latitude": "62.00823375783611",
+    "longitude": "22.283014714216975"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.23419485113344",
+    "longitude": "25.421270633691964"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.6966515815536",
+    "longitude": "25.318300816708213"
+  },
+  {
+    "city": "Nurmes",
+    "latitude": "63.38198459059508",
+    "longitude": "29.414627117386207"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.71575779610181",
+    "longitude": "26.563165853053153"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.44037078329227",
+    "longitude": "26.48278174350166"
+  },
+  {
+    "city": "Mikkeli",
+    "latitude": "62.02194699763308",
+    "longitude": "27.17165555106604"
+  },
+  {
+    "city": "Sonkajärvi",
+    "latitude": "63.84280913848571",
+    "longitude": "27.77310895394659"
+  },
+  {
+    "city": "Evijärvi",
+    "latitude": "63.41778317475943",
+    "longitude": "23.396447417175466"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.67882068389213",
+    "longitude": "28.055902991096065"
+  },
+  {
+    "city": "Raseborg",
+    "latitude": "59.96559647208425",
+    "longitude": "23.368149945714602"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.89071860355793",
+    "longitude": "29.064199782061163"
+  },
+  {
+    "city": "Keuruu",
+    "latitude": "62.32614143673607",
+    "longitude": "24.584708200683977"
+  },
+  {
+    "city": "Joutsa",
+    "latitude": "61.90541292969891",
+    "longitude": "26.21610805183741"
+  },
+  {
+    "city": "Tampere",
+    "latitude": "61.61048126739313",
+    "longitude": "23.793262580928946"
+  },
+  {
+    "city": "Varkaus",
+    "latitude": "62.22575924380479",
+    "longitude": "28.233073413480685"
+  },
+  {
+    "city": "Luumäki",
+    "latitude": "60.88476671219141",
+    "longitude": "27.734725923766145"
+  },
+  {
+    "city": "Lappeenranta",
+    "latitude": "60.851435051767695",
+    "longitude": "27.921643818778804"
+  },
+  {
+    "city": "Mikkeli",
+    "latitude": "61.72648871299743",
+    "longitude": "27.35976839249798"
+  },
+  {
+    "city": "Savonlinna",
+    "latitude": "62.25582073956453",
+    "longitude": "29.325850711780145"
+  },
+  {
+    "city": "Haapajärvi",
+    "latitude": "63.92257633171723",
+    "longitude": "25.28732838634609"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "64.8359968200922",
+    "longitude": "29.519555640612186"
+  },
+  {
+    "city": "Äänekoski",
+    "latitude": "62.575425469631774",
+    "longitude": "25.86310884668308"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.48861908069014",
+    "longitude": "22.873139722063563"
+  },
+  {
+    "city": "Mikkeli",
+    "latitude": "61.31386013212397",
+    "longitude": "27.350504096613598"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.71430949876033",
+    "longitude": "25.550550506077013"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.63675592497597",
+    "longitude": "25.938873486088717"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "66.28181447024053",
+    "longitude": "28.59265579624165"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.86549601827265",
+    "longitude": "27.914317599789623"
+  },
+  {
+    "city": "Joensuu",
+    "latitude": "63.00867503883839",
+    "longitude": "30.07506895618565"
+  },
+  {
+    "city": "Parkano",
+    "latitude": "62.166279939159054",
+    "longitude": "23.03616083451487"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "68.09433971227446",
+    "longitude": "25.326275385431874"
+  },
+  {
+    "city": "Haapajärvi",
+    "latitude": "63.717362835421774",
+    "longitude": "25.39323769270873"
+  },
+  {
+    "city": "Sotkamo",
+    "latitude": "64.08456156757649",
+    "longitude": "28.51560654968105"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.04585959570011",
+    "longitude": "26.102396951843705"
+  },
+  {
+    "city": "Muonio",
+    "latitude": "68.01099282760462",
+    "longitude": "24.160414990936832"
+  },
+  {
+    "city": "Esse",
+    "latitude": "63.5524540184641",
+    "longitude": "23.166049322504506"
+  },
+  {
+    "city": "Keitele",
+    "latitude": "63.197252539272796",
+    "longitude": "26.24320184457416"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.80933016962629",
+    "longitude": "27.292380251211114"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "62.95102130430207",
+    "longitude": "28.31389261780035"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.49747120158415",
+    "longitude": "24.627433845379493"
+  },
+  {
+    "city": "Valkeakoski",
+    "latitude": "61.1949585314761",
+    "longitude": "23.960240485381256"
+  },
+  {
+    "city": "Rautalampi",
+    "latitude": "62.79838085994072",
+    "longitude": "26.613666472961217"
+  },
+  {
+    "city": "Nurmes",
+    "latitude": "63.480970761726965",
+    "longitude": "28.913361973091163"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.92109292560026",
+    "longitude": "26.74319900325225"
+  },
+  {
+    "city": "Mikkeli",
+    "latitude": "61.50810400064256",
+    "longitude": "27.09893849569271"
+  },
+  {
+    "city": "Kangasniemi",
+    "latitude": "62.033290873570714",
+    "longitude": "26.791670415670584"
+  },
+  {
+    "city": "Tohmajärvi",
+    "latitude": "62.27851520924145",
+    "longitude": "30.502098230297808"
+  },
+  {
+    "city": "Sievi",
+    "latitude": "63.960452562104514",
+    "longitude": "24.37987914049982"
+  },
+  {
+    "city": "Ilomantsi",
+    "latitude": "62.929480523318304",
+    "longitude": "31.41977784142193"
+  },
+  {
+    "city": "Tyrnävä",
+    "latitude": "64.8794894328516",
+    "longitude": "25.706687286217388"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "66.10684295916599",
+    "longitude": "26.062418308597568"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.8668971902489",
+    "longitude": "26.552027248761735"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.25368721050584",
+    "longitude": "26.946318964479985"
+  },
+  {
+    "city": "Keitele",
+    "latitude": "63.347247178232706",
+    "longitude": "26.156792980477782"
+  },
+  {
+    "city": "Kalajoki",
+    "latitude": "64.19933082868968",
+    "longitude": "24.124090181957676"
+  },
+  {
+    "city": "Kivijärvi",
+    "latitude": "63.15506661028358",
+    "longitude": "25.171652034429382"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "65.91811302671192",
+    "longitude": "29.24731527242175"
+  },
+  {
+    "city": "Taivalkoski",
+    "latitude": "65.79744080387825",
+    "longitude": "28.034920781035016"
+  },
+  {
+    "city": "Kangasniemi",
+    "latitude": "61.915768923072676",
+    "longitude": "26.480355081660043"
+  },
+  {
+    "city": "Pertunmaa",
+    "latitude": "61.38126615301182",
+    "longitude": "26.455919199592472"
+  },
+  {
+    "city": "Sotkamo",
+    "latitude": "64.29240050444223",
+    "longitude": "28.390538784531476"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.8808973353978",
+    "longitude": "25.672053525803864"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "65.72397169488838",
+    "longitude": "26.386630586042607"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.2417888857107",
+    "longitude": "25.437306099581694"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "64.16038897189794",
+    "longitude": "29.87231377575234"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.83152022550748",
+    "longitude": "27.2747488596601"
+  },
+  {
+    "city": "Nurmes",
+    "latitude": "63.817562223450736",
+    "longitude": "28.99121479755965"
+  },
+  {
+    "city": "Alajärvi",
+    "latitude": "62.803208140363786",
+    "longitude": "23.99328122733659"
+  },
+  {
+    "city": "Kinnula",
+    "latitude": "63.445081130977755",
+    "longitude": "25.088162101715216"
+  },
+  {
+    "city": "Joensuu",
+    "latitude": "62.99055123152133",
+    "longitude": "30.186191002762435"
+  },
+  {
+    "city": "Somero",
+    "latitude": "60.5928539031304",
+    "longitude": "23.758080580188466"
+  },
+  {
+    "city": "Korsholm",
+    "latitude": "63.21116473092216",
+    "longitude": "21.798327610892834"
+  },
+  {
+    "city": "Teuva",
+    "latitude": "62.55565205110076",
+    "longitude": "21.983247687780985"
+  },
+  {
+    "city": "Heinävesi",
+    "latitude": "62.505964176903916",
+    "longitude": "28.51452687735097"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "64.72790484595939",
+    "longitude": "29.896944450519886"
+  },
+  {
+    "city": "Orimattila",
+    "latitude": "60.78782408000433",
+    "longitude": "25.77561411811477"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "64.88380753892177",
+    "longitude": "28.696635003312984"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.38007433339331",
+    "longitude": "24.6675352011482"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "65.8032271450131",
+    "longitude": "27.10590687059546"
+  },
+  {
+    "city": "Oulu",
+    "latitude": "65.22648217702258",
+    "longitude": "26.00526142509472"
+  },
+  {
+    "city": "Kolari",
+    "latitude": "67.44477499387456",
+    "longitude": "24.010925778547303"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "65.98969572322774",
+    "longitude": "25.91762847032342"
+  },
+  {
+    "city": "Ulvila",
+    "latitude": "61.449657058907626",
+    "longitude": "22.241901492448577"
+  },
+  {
+    "city": "Raseborg",
+    "latitude": "60.07325156932934",
+    "longitude": "23.30998304509443"
+  },
+  {
+    "city": "Pelkosenniemi",
+    "latitude": "67.25182915442994",
+    "longitude": "27.494106302163623"
+  },
+  {
+    "city": "Sonkajärvi",
+    "latitude": "63.543596773673755",
+    "longitude": "27.86441284463355"
+  },
+  {
+    "city": "Ii",
+    "latitude": "65.73930926665993",
+    "longitude": "25.82901647349855"
+  },
+  {
+    "city": "Heinola",
+    "latitude": "61.146900826161264",
+    "longitude": "25.94156200466985"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "66.22026829930923",
+    "longitude": "29.164875203753624"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.6843044637155",
+    "longitude": "25.579252662244755"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.65337667246928",
+    "longitude": "26.05692525984061"
+  },
+  {
+    "city": "Petalax",
+    "latitude": "62.83232157705403",
+    "longitude": "21.37876227632863"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.61104359496376",
+    "longitude": "21.93423678884921"
+  },
+  {
+    "city": "Kristinestad",
+    "latitude": "62.29901723944632",
+    "longitude": "21.636907238670574"
+  },
+  {
+    "city": "Jämsä",
+    "latitude": "61.99984424275993",
+    "longitude": "24.720565021290785"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.97031792645832",
+    "longitude": "25.43950138561134"
+  },
+  {
+    "city": "Honkajoki",
+    "latitude": "61.99494327726321",
+    "longitude": "22.189346889084852"
+  },
+  {
+    "city": "Orivesi",
+    "latitude": "61.70577739995836",
+    "longitude": "24.72371148059348"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.29741644761988",
+    "longitude": "27.79138243153588"
+  },
+  {
+    "city": "Puolanka",
+    "latitude": "65.0208932389057",
+    "longitude": "28.06556246250323"
+  },
+  {
+    "city": "Seinäjoki",
+    "latitude": "62.58722670902903",
+    "longitude": "23.173020859509716"
+  },
+  {
+    "city": "Isojoki",
+    "latitude": "62.0310872361179",
+    "longitude": "21.69472800576118"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.57903404904572",
+    "longitude": "28.162008014269635"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.26451151409454",
+    "longitude": "28.103358542530206"
+  },
+  {
+    "city": "Siikainen",
+    "latitude": "61.779580560188954",
+    "longitude": "21.89471756693383"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.79132608001628",
+    "longitude": "26.593441688014618"
+  },
+  {
+    "city": "Salla",
+    "latitude": "67.31110474791399",
+    "longitude": "29.218095843567816"
+  },
+  {
+    "city": "Lappeenranta",
+    "latitude": "61.055532418248305",
+    "longitude": "28.404279738916546"
+  },
+  {
+    "city": "Multia",
+    "latitude": "62.43595209488333",
+    "longitude": "24.624853063704258"
+  },
+  {
+    "city": "Haapavesi",
+    "latitude": "64.17732474246563",
+    "longitude": "25.50549015374388"
+  },
+  {
+    "city": "Puumala",
+    "latitude": "61.44188846608963",
+    "longitude": "28.35453178171003"
+  },
+  {
+    "city": "Kristinestad",
+    "latitude": "62.03782917924567",
+    "longitude": "21.44527185124782"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.19298194987529",
+    "longitude": "29.0715896867732"
+  },
+  {
+    "city": "Savonlinna",
+    "latitude": "62.169503015573135",
+    "longitude": "29.36565191087369"
+  },
+  {
+    "city": "Ruokolahti",
+    "latitude": "61.40077843693157",
+    "longitude": "28.87931700713104"
+  },
+  {
+    "city": "Juuka",
+    "latitude": "63.09358684272321",
+    "longitude": "28.858188050061905"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.67461744552101",
+    "longitude": "28.92367685985028"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "65.67271351988083",
+    "longitude": "29.049670607559126"
+  },
+  {
+    "city": "Pieksämäki",
+    "latitude": "62.10152363253737",
+    "longitude": "27.612845834176408"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "64.74549215036168",
+    "longitude": "29.69045161319781"
+  },
+  {
+    "city": "Keitele",
+    "latitude": "63.10005233301296",
+    "longitude": "26.362977176950306"
+  },
+  {
+    "city": "Posio",
+    "latitude": "66.19081144910182",
+    "longitude": "28.30270597139766"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.33185523444183",
+    "longitude": "27.009696009848906"
+  },
+  {
+    "city": "Muonio",
+    "latitude": "68.06120303500738",
+    "longitude": "23.775366718724698"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.15479034653147",
+    "longitude": "28.816241199468323"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.82037315789756",
+    "longitude": "21.57251239767317"
+  },
+  {
+    "city": "Ilomantsi",
+    "latitude": "63.032807961526274",
+    "longitude": "31.222195398021324"
+  },
+  {
+    "city": "Leppävirta",
+    "latitude": "62.42349181231393",
+    "longitude": "27.635512578535803"
+  },
+  {
+    "city": "Revonlahti",
+    "latitude": "64.75668173805985",
+    "longitude": "25.0334977575334"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.82436459864167",
+    "longitude": "25.12677212806284"
+  },
+  {
+    "city": "Salo",
+    "latitude": "60.42856773286166",
+    "longitude": "22.848818549874434"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "67.10893304964527",
+    "longitude": "25.694973504723784"
+  },
+  {
+    "city": "Sonkajärvi",
+    "latitude": "63.54024766528127",
+    "longitude": "27.938523272873862"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.20440266058188",
+    "longitude": "27.635759990682047"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "66.01419070789254",
+    "longitude": "26.003223954903476"
+  },
+  {
+    "city": "Kinnula",
+    "latitude": "63.344452301944024",
+    "longitude": "25.20047696182573"
+  },
+  {
+    "city": "Eurajoki",
+    "latitude": "61.266261684198454",
+    "longitude": "21.838838674103105"
+  },
+  {
+    "city": "Kemijärvi",
+    "latitude": "66.55904467466215",
+    "longitude": "27.014141304727225"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.49254465052964",
+    "longitude": "23.438794968908915"
+  },
+  {
+    "city": "Orivesi",
+    "latitude": "61.6696940720104",
+    "longitude": "24.65324814740989"
+  },
+  {
+    "city": "Orimattila",
+    "latitude": "60.869425425551704",
+    "longitude": "25.895371294471314"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.47123953555129",
+    "longitude": "24.870652695235844"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.66277808901584",
+    "longitude": "26.706063608091732"
+  },
+  {
+    "city": "Ylitornio",
+    "latitude": "66.33968747455908",
+    "longitude": "23.988061429917167"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.22039754401469",
+    "longitude": "29.352420443505864"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "65.8765611688206",
+    "longitude": "29.545065566373538"
+  },
+  {
+    "city": "Luvia",
+    "latitude": "61.36213168720605",
+    "longitude": "21.54228801754499"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.64073648674581",
+    "longitude": "22.395634561486656"
+  },
+  {
+    "city": "Lohja",
+    "latitude": "60.5312667530884",
+    "longitude": "23.88447841309775"
+  },
+  {
+    "city": "Somero",
+    "latitude": "60.57109776444085",
+    "longitude": "23.72040592993776"
+  },
+  {
+    "city": "Joutsa",
+    "latitude": "61.8631623408302",
+    "longitude": "26.144404648735183"
+  },
+  {
+    "city": "Pori",
+    "latitude": "61.50200561243296",
+    "longitude": "21.65753489159059"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.263162214541",
+    "longitude": "28.75624512431875"
+  },
+  {
+    "city": "Raseborg",
+    "latitude": "60.018316595578206",
+    "longitude": "23.29453258252623"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.4292385058982",
+    "longitude": "26.195245144872796"
+  },
+  {
+    "city": "Ylitornio",
+    "latitude": "66.43869138072358",
+    "longitude": "24.16797014119579"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.79712587784978",
+    "longitude": "28.26897605697271"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "63.15208728151657",
+    "longitude": "27.81199482469617"
+  },
+  {
+    "city": "Jyväskylä",
+    "latitude": "62.01193806128443",
+    "longitude": "25.56039919032056"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.45288223390264",
+    "longitude": "27.674167613847896"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.72257549524208",
+    "longitude": "28.419018604639355"
+  },
+  {
+    "city": "Eura",
+    "latitude": "61.17887654993658",
+    "longitude": "21.9601678509086"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.21602984837301",
+    "longitude": "26.578946493578833"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.67535357053606",
+    "longitude": "28.70092656303188"
+  },
+  {
+    "city": "Pelkosenniemi",
+    "latitude": "67.0616505956337",
+    "longitude": "27.76889807897888"
+  },
+  {
+    "city": "Ylitornio",
+    "latitude": "66.59388044642006",
+    "longitude": "24.97383559532587"
+  },
+  {
+    "city": "Kristinestad",
+    "latitude": "62.04045925930936",
+    "longitude": "21.27954001669049"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.84117630261312",
+    "longitude": "26.264886051438282"
+  },
+  {
+    "city": "Keitele",
+    "latitude": "63.023230077375956",
+    "longitude": "26.482213735400016"
+  },
+  {
+    "city": "Kalajoki",
+    "latitude": "64.05344232164934",
+    "longitude": "23.806779183642384"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.46251115635715",
+    "longitude": "25.785376769831696"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.21999496463765",
+    "longitude": "29.411440786637932"
+  },
+  {
+    "city": "Nykarleby",
+    "latitude": "63.5649252234666",
+    "longitude": "22.562913972593524"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "63.21823352108488",
+    "longitude": "28.32974754226202"
+  },
+  {
+    "city": "Pyhäntä",
+    "latitude": "63.96052199635842",
+    "longitude": "26.411288430174295"
+  },
+  {
+    "city": "Jämsä",
+    "latitude": "61.84477160215988",
+    "longitude": "25.332384214782213"
+  },
+  {
+    "city": "Ii",
+    "latitude": "65.46738865977831",
+    "longitude": "25.537819474082742"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.80213417934965",
+    "longitude": "25.232431151784365"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.41440397700934",
+    "longitude": "29.51195265554343"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.35229656452424",
+    "longitude": "26.457346792824556"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.27566878148008",
+    "longitude": "26.056353919653347"
+  },
+  {
+    "city": "Kihniö",
+    "latitude": "62.21930016601155",
+    "longitude": "23.12399530701086"
+  },
+  {
+    "city": "Hartola",
+    "latitude": "61.537729456835756",
+    "longitude": "26.251587096406624"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "65.65413760167145",
+    "longitude": "28.724681989507673"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.27322581076955",
+    "longitude": "27.69432887281842"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.21625649504115",
+    "longitude": "24.684790672050404"
+  },
+  {
+    "city": "Laukaa",
+    "latitude": "62.32757934772782",
+    "longitude": "26.236330983259407"
+  },
+  {
+    "city": "Posio",
+    "latitude": "66.13327959780024",
+    "longitude": "27.391631010260788"
+  },
+  {
+    "city": "Kouvola",
+    "latitude": "60.813705463620586",
+    "longitude": "27.267083909165144"
+  },
+  {
+    "city": "Lahti",
+    "latitude": "60.99924414857717",
+    "longitude": "25.737079378072668"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.48570049455799",
+    "longitude": "28.459849752869037"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.30334544653036",
+    "longitude": "24.166704385783238"
+  },
+  {
+    "city": "Tervola",
+    "latitude": "66.15137756226396",
+    "longitude": "26.05683636897655"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.39827575958142",
+    "longitude": "26.41245055142611"
+  },
+  {
+    "city": "Seinäjoki",
+    "latitude": "62.54731673266602",
+    "longitude": "23.14823620382568"
+  },
+  {
+    "city": "Pieksämäki",
+    "latitude": "62.03584365946856",
+    "longitude": "27.34684618830338"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "64.64588698491642",
+    "longitude": "29.749917498861787"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.6185923574261",
+    "longitude": "29.02890348194844"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.10300040096341",
+    "longitude": "27.8365706793489"
+  },
+  {
+    "city": "Oulu",
+    "latitude": "65.51900009350236",
+    "longitude": "26.140298962040895"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.20034493846626",
+    "longitude": "24.16412743445048"
+  },
+  {
+    "city": "Pori",
+    "latitude": "61.41906964309062",
+    "longitude": "21.714243801057243"
+  },
+  {
+    "city": "Siikalatva",
+    "latitude": "64.2540112871235",
+    "longitude": "25.7213199982513"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "64.9617873036545",
+    "longitude": "28.31404577719376"
+  },
+  {
+    "city": "Heinävesi",
+    "latitude": "62.42853180314838",
+    "longitude": "28.591151597714575"
+  },
+  {
+    "city": "Ylitornio",
+    "latitude": "66.33417285719874",
+    "longitude": "23.674831875606795"
+  },
+  {
+    "city": "Hollola",
+    "latitude": "61.08554857267148",
+    "longitude": "25.704963429497944"
+  },
+  {
+    "city": "Rautavaara",
+    "latitude": "63.43372505313459",
+    "longitude": "28.204163814425783"
+  },
+  {
+    "city": "Pälkäne",
+    "latitude": "61.42236391963846",
+    "longitude": "24.54271211242901"
+  },
+  {
+    "city": "Eurajoki",
+    "latitude": "61.24375878164582",
+    "longitude": "21.87447466040281"
+  },
+  {
+    "city": "Oulu",
+    "latitude": "65.23176369388129",
+    "longitude": "26.26026540785101"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.22613097845608",
+    "longitude": "26.791776520769538"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "64.08438325296873",
+    "longitude": "30.18547144254351"
+  },
+  {
+    "city": "Kajaani",
+    "latitude": "63.9911309253276",
+    "longitude": "27.28623673774139"
+  },
+  {
+    "city": "Siikalatva",
+    "latitude": "64.22539735994405",
+    "longitude": "26.76979387675405"
+  },
+  {
+    "city": "Pielavesi",
+    "latitude": "63.43847373155468",
+    "longitude": "26.93345417940313"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.35164977621952",
+    "longitude": "23.967853748004305"
+  },
+  {
+    "city": "Oulu",
+    "latitude": "64.97639759146949",
+    "longitude": "26.239247746502333"
+  },
+  {
+    "city": "Joutsa",
+    "latitude": "61.741016792822045",
+    "longitude": "26.07928686920771"
+  },
+  {
+    "city": "Kokkola",
+    "latitude": "63.771252565503225",
+    "longitude": "23.088568802214954"
+  },
+  {
+    "city": "Pelkosenniemi",
+    "latitude": "67.26496001071455",
+    "longitude": "27.15904301468353"
+  },
+  {
+    "city": "Padasjoki",
+    "latitude": "61.41166391813829",
+    "longitude": "25.407890650979557"
+  },
+  {
+    "city": "Ruukki",
+    "latitude": "64.62960000664734",
+    "longitude": "25.14708737739115"
+  },
+  {
+    "city": "Joensuu",
+    "latitude": "62.949986429888966",
+    "longitude": "30.19950498630521"
+  },
+  {
+    "city": "Oulu",
+    "latitude": "65.23599540752288",
+    "longitude": "25.948929241571054"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.79210894184303",
+    "longitude": "26.549905019907374"
+  },
+  {
+    "city": "Keminmaa",
+    "latitude": "65.82083656093288",
+    "longitude": "24.660249515901157"
+  },
+  {
+    "city": "Kauhava",
+    "latitude": "63.0842304546198",
+    "longitude": "23.204625428934126"
+  },
+  {
+    "city": "Riihikoski",
+    "latitude": "60.71829092959122",
+    "longitude": "22.554252237990056"
+  },
+  {
+    "city": "Kauhajoki",
+    "latitude": "62.41461019730986",
+    "longitude": "22.10910222807029"
+  },
+  {
+    "city": "Kiuruvesi",
+    "latitude": "63.602740430467705",
+    "longitude": "26.423800510309572"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.26624715342501",
+    "longitude": "26.097859267803283"
+  },
+  {
+    "city": "Posio",
+    "latitude": "66.0052605941698",
+    "longitude": "27.984159965140986"
+  },
+  {
+    "city": "Salo",
+    "latitude": "60.292649622378505",
+    "longitude": "23.14327863072383"
+  },
+  {
+    "city": "Miehikkälä",
+    "latitude": "60.74975225192997",
+    "longitude": "27.706241690079853"
+  },
+  {
+    "city": "Ruotsinpyhtää",
+    "latitude": "60.50131061805546",
+    "longitude": "26.43929613280086"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.55785355747359",
+    "longitude": "24.08302172037138"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "66.41574360002852",
+    "longitude": "28.85867403790923"
+  },
+  {
+    "city": "Turku",
+    "latitude": "60.346970001987614",
+    "longitude": "22.16807582783492"
+  },
+  {
+    "city": "Mäntyharju",
+    "latitude": "61.18098880355596",
+    "longitude": "27.17064969265728"
+  },
+  {
+    "city": "Sievi",
+    "latitude": "63.78178839125035",
+    "longitude": "24.71123107772289"
+  },
+  {
+    "city": "Kouvola",
+    "latitude": "60.7683901467493",
+    "longitude": "26.408238171776702"
+  },
+  {
+    "city": "Petalax",
+    "latitude": "62.87557709062141",
+    "longitude": "21.398714293027563"
+  },
+  {
+    "city": "Posio",
+    "latitude": "66.2434251092871",
+    "longitude": "28.076676071554687"
+  },
+  {
+    "city": "Tervo",
+    "latitude": "63.024446542108294",
+    "longitude": "26.96883974116828"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.5088177213595",
+    "longitude": "28.243598878482576"
+  },
+  {
+    "city": "Joensuu",
+    "latitude": "62.337894082611946",
+    "longitude": "30.858425553751974"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.39538871355273",
+    "longitude": "25.709130264148424"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.24115703340043",
+    "longitude": "27.62727630019389"
+  },
+  {
+    "city": "Pyhäjärvi",
+    "latitude": "63.52897560968439",
+    "longitude": "25.674225100460706"
+  },
+  {
+    "city": "Taivalkoski",
+    "latitude": "65.70997096737574",
+    "longitude": "28.055214368129903"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.63487795924985",
+    "longitude": "25.980334488712284"
+  },
+  {
+    "city": "Pieksämäki",
+    "latitude": "62.325590067015156",
+    "longitude": "27.2412019998378"
+  },
+  {
+    "city": "Pieksämäki",
+    "latitude": "62.378490423706246",
+    "longitude": "26.839698510365587"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.37457313931473",
+    "longitude": "27.560814413417376"
+  },
+  {
+    "city": "Somero",
+    "latitude": "60.64103874560796",
+    "longitude": "23.397494577285215"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.31960450316548",
+    "longitude": "27.759706266307056"
+  },
+  {
+    "city": "Kalajoki",
+    "latitude": "64.10149066623457",
+    "longitude": "23.653855940298293"
+  },
+  {
+    "city": "Kannonkoski",
+    "latitude": "62.92559120141413",
+    "longitude": "25.312410806153398"
+  },
+  {
+    "city": "Juva",
+    "latitude": "61.718849744708486",
+    "longitude": "27.760264413070168"
+  },
+  {
+    "city": "Paltamo",
+    "latitude": "64.39251510907533",
+    "longitude": "28.255522381945717"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "64.27200961957507",
+    "longitude": "30.313011544461112"
+  },
+  {
+    "city": "Ilomantsi",
+    "latitude": "63.167219405380806",
+    "longitude": "30.969239135845598"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.156911241063",
+    "longitude": "27.85955945285447"
+  },
+  {
+    "city": "Vieremä",
+    "latitude": "63.91599082854371",
+    "longitude": "27.181777132122278"
+  },
+  {
+    "city": "Huittinen",
+    "latitude": "61.14763285985626",
+    "longitude": "22.528863644417555"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.52870636702588",
+    "longitude": "27.056098165043164"
+  },
+  {
+    "city": "Saarijärvi",
+    "latitude": "62.80838343509397",
+    "longitude": "24.94002128580841"
+  },
+  {
+    "city": "Paltamo",
+    "latitude": "64.52721241873724",
+    "longitude": "27.852132701189333"
+  },
+  {
+    "city": "Tyrnävä",
+    "latitude": "64.73050437680035",
+    "longitude": "25.76826490862597"
+  },
+  {
+    "city": "Parkano",
+    "latitude": "62.03104822942763",
+    "longitude": "22.78264994092575"
+  },
+  {
+    "city": "Rautavaara",
+    "latitude": "63.408718076482074",
+    "longitude": "28.134741070885745"
+  },
+  {
+    "city": "Sievi",
+    "latitude": "63.75789419930301",
+    "longitude": "24.500430071352667"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.83002964610422",
+    "longitude": "26.90722748230533"
+  },
+  {
+    "city": "Tammela",
+    "latitude": "60.84902988716766",
+    "longitude": "23.865219571387403"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "62.67387455548513",
+    "longitude": "28.071536576862602"
+  },
+  {
+    "city": "Tervola",
+    "latitude": "66.17103953647543",
+    "longitude": "25.078944591198727"
+  },
+  {
+    "city": "Liperi",
+    "latitude": "62.591861379438626",
+    "longitude": "29.48729954011783"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.5586061849562",
+    "longitude": "28.260566942442054"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.81351807332426",
+    "longitude": "25.2138491163055"
+  },
+  {
+    "city": "Korsholm",
+    "latitude": "63.025966747094",
+    "longitude": "21.823616197967052"
+  },
+  {
+    "city": "Lieksa",
+    "latitude": "63.222043140341974",
+    "longitude": "31.012595630249777"
+  },
+  {
+    "city": "Ilomantsi",
+    "latitude": "63.17324288436411",
+    "longitude": "31.093960397389907"
+  },
+  {
+    "city": "Lohja",
+    "latitude": "60.47153675502439",
+    "longitude": "24.023208319316314"
+  },
+  {
+    "city": "Hankasalmi",
+    "latitude": "62.35024010400492",
+    "longitude": "26.230463228403824"
+  },
+  {
+    "city": "Ruokolahti",
+    "latitude": "61.24205740293597",
+    "longitude": "28.78392633719437"
+  },
+  {
+    "city": "Ylöjärvi",
+    "latitude": "61.95570581802957",
+    "longitude": "23.364784613781417"
+  },
+  {
+    "city": "Jurva",
+    "latitude": "62.65477873415734",
+    "longitude": "21.98208969593899"
+  },
+  {
+    "city": "Ilomantsi",
+    "latitude": "62.663725686821905",
+    "longitude": "30.5997820219683"
+  },
+  {
+    "city": "Ilomantsi",
+    "latitude": "62.87245651737281",
+    "longitude": "31.226795896887065"
+  },
+  {
+    "city": "Lieksa",
+    "latitude": "63.07023675730979",
+    "longitude": "29.93842246636815"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.88139564655118",
+    "longitude": "26.473536807433774"
+  },
+  {
+    "city": "Viitasaari",
+    "latitude": "63.04072531255782",
+    "longitude": "25.600296460622385"
+  },
+  {
+    "city": "Keuruu",
+    "latitude": "62.36202498727235",
+    "longitude": "24.024914835921813"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.12856897198445",
+    "longitude": "28.607383037706946"
+  },
+  {
+    "city": "Kangasala",
+    "latitude": "61.48085380697304",
+    "longitude": "24.650293562073024"
+  },
+  {
+    "city": "Kontiolahti",
+    "latitude": "62.723700953498266",
+    "longitude": "29.959682140200314"
+  },
+  {
+    "city": "Kemijärvi",
+    "latitude": "66.80440634086267",
+    "longitude": "26.67391244676036"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.40908149599665",
+    "longitude": "27.989921853002862"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.87372283452206",
+    "longitude": "25.33687291412901"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.59789847757565",
+    "longitude": "23.567209850766897"
+  },
+  {
+    "city": "Pieksämäki",
+    "latitude": "62.4739476372197",
+    "longitude": "27.10556322668691"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.92435181679177",
+    "longitude": "26.103252379817963"
+  },
+  {
+    "city": "Urjala",
+    "latitude": "61.118971890104305",
+    "longitude": "23.417894449726813"
+  },
+  {
+    "city": "Tohmajärvi",
+    "latitude": "62.37830880044223",
+    "longitude": "30.04365719735413"
+  },
+  {
+    "city": "Vaala",
+    "latitude": "64.5605897411474",
+    "longitude": "26.8435024733746"
+  },
+  {
+    "city": "Kemijärvi",
+    "latitude": "66.65316645350866",
+    "longitude": "27.56551101552695"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "66.18438291169579",
+    "longitude": "29.207787767432823"
+  },
+  {
+    "city": "Saarijärvi",
+    "latitude": "62.85116676119286",
+    "longitude": "25.539815495443385"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.58836625538808",
+    "longitude": "26.77735297001996"
+  },
+  {
+    "city": "Kannus",
+    "latitude": "63.92576607803353",
+    "longitude": "23.869731535890924"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.33528713402376",
+    "longitude": "23.9433100204397"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.61354534555983",
+    "longitude": "25.773080391025005"
+  },
+  {
+    "city": "Puolanka",
+    "latitude": "65.18211212632525",
+    "longitude": "28.194988856943624"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "65.88331238442957",
+    "longitude": "27.123393602296446"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.00599791661536",
+    "longitude": "26.51367283737444"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.23222731904995",
+    "longitude": "27.874152911132633"
+  },
+  {
+    "city": "Juuka",
+    "latitude": "63.04537842406912",
+    "longitude": "29.10475374406754"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "64.94151305560212",
+    "longitude": "29.361821577255487"
+  },
+  {
+    "city": "Mäntyharju",
+    "latitude": "61.38121188307634",
+    "longitude": "27.10421328806683"
+  },
+  {
+    "city": "Sonkajärvi",
+    "latitude": "63.603705626987555",
+    "longitude": "27.488219461104634"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.88378431932132",
+    "longitude": "27.220564501344658"
+  },
+  {
+    "city": "Kokkola",
+    "latitude": "63.7856275601333",
+    "longitude": "23.65498363362511"
+  },
+  {
+    "city": "Närpes",
+    "latitude": "62.559991183303694",
+    "longitude": "21.309029121050642"
+  },
+  {
+    "city": "Paimio",
+    "latitude": "60.3914483761464",
+    "longitude": "22.724160137496327"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.7864721480216",
+    "longitude": "26.83610307475274"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.90909226736473",
+    "longitude": "27.6638958747314"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.38530089294753",
+    "longitude": "25.32275038384705"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.35763564146183",
+    "longitude": "25.874351561874008"
+  },
+  {
+    "city": "Reisjärvi",
+    "latitude": "63.59562363052116",
+    "longitude": "24.913587010837958"
+  },
+  {
+    "city": "Virrat",
+    "latitude": "62.29620271422718",
+    "longitude": "23.607657364261183"
+  },
+  {
+    "city": "Sotkamo",
+    "latitude": "63.7154452529656",
+    "longitude": "28.193224077550262"
+  },
+  {
+    "city": "Joensuu",
+    "latitude": "62.394150070073415",
+    "longitude": "30.780166502817337"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "64.19551459087812",
+    "longitude": "29.429850450844313"
+  },
+  {
+    "city": "Rantasalmi",
+    "latitude": "62.109354409133324",
+    "longitude": "28.155917924151414"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "64.55785463215172",
+    "longitude": "29.742435846780992"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.03780260439953",
+    "longitude": "29.36021476945736"
+  },
+  {
+    "city": "Jämsä",
+    "latitude": "62.13940797601536",
+    "longitude": "25.15860854226197"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.55887329344489",
+    "longitude": "28.458732008366653"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "63.192820399504974",
+    "longitude": "27.215822675636254"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.61011285928294",
+    "longitude": "27.740361641926143"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "63.21005100426651",
+    "longitude": "28.08103423901714"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.42907355526148",
+    "longitude": "23.996396311922325"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "63.228546565543226",
+    "longitude": "27.928396009610964"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "68.3175140263115",
+    "longitude": "24.824681307828968"
+  },
+  {
+    "city": "Puolanka",
+    "latitude": "64.95456300581796",
+    "longitude": "27.79355891488249"
+  },
+  {
+    "city": "Polvijärvi",
+    "latitude": "62.97568410185601",
+    "longitude": "29.43305678126492"
+  },
+  {
+    "city": "Lieksa",
+    "latitude": "63.17587134397181",
+    "longitude": "30.762640409415788"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "62.683563560743025",
+    "longitude": "27.952045505357834"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.66589388565359",
+    "longitude": "27.210697984974583"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "68.01552665502642",
+    "longitude": "25.757548924245075"
+  },
+  {
+    "city": "Lempäälä",
+    "latitude": "61.370258617611206",
+    "longitude": "23.65202400726145"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.06776413004094",
+    "longitude": "26.516918769959545"
+  },
+  {
+    "city": "Mikkeli",
+    "latitude": "62.08420578600943",
+    "longitude": "27.261975666799298"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.49694986992903",
+    "longitude": "26.329599521910275"
+  },
+  {
+    "city": "Kitee",
+    "latitude": "61.947569461570744",
+    "longitude": "30.206037806912537"
+  },
+  {
+    "city": "Mikkeli",
+    "latitude": "61.21560192925422",
+    "longitude": "27.34742154226166"
+  },
+  {
+    "city": "Parikkala",
+    "latitude": "61.53041792668367",
+    "longitude": "29.648967384803452"
+  },
+  {
+    "city": "Lahti",
+    "latitude": "60.984869326244215",
+    "longitude": "25.694367518587566"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "66.39696704667156",
+    "longitude": "28.960536469015157"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.27078887000394",
+    "longitude": "27.958176039081252"
+  },
+  {
+    "city": "Siuntio",
+    "latitude": "60.22757439289556",
+    "longitude": "24.084735075944582"
+  },
+  {
+    "city": "Naantali",
+    "latitude": "60.29528813682006",
+    "longitude": "21.967465969252274"
+  },
+  {
+    "city": "Puolanka",
+    "latitude": "64.88707670107075",
+    "longitude": "27.48384886649814"
+  },
+  {
+    "city": "Pylkönmäki",
+    "latitude": "62.589559688574646",
+    "longitude": "24.801659039301196"
+  },
+  {
+    "city": "Kouvola",
+    "latitude": "61.052254808393776",
+    "longitude": "26.70941339370927"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.39706075538169",
+    "longitude": "25.57639254979596"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.68971996853432",
+    "longitude": "25.5872286097977"
+  },
+  {
+    "city": "Raahe",
+    "latitude": "64.39518243093654",
+    "longitude": "25.052837262893945"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "64.27125121477494",
+    "longitude": "28.96992786089159"
+  },
+  {
+    "city": "Lappajärvi",
+    "latitude": "63.22083405855916",
+    "longitude": "23.69821494202017"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "62.782834458540094",
+    "longitude": "27.319163079932625"
+  },
+  {
+    "city": "Haapavesi",
+    "latitude": "64.28166564545035",
+    "longitude": "25.187352839957292"
+  },
+  {
+    "city": "Raisio",
+    "latitude": "60.46179137746355",
+    "longitude": "22.080339823922273"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.58130528648404",
+    "longitude": "25.508319517958775"
+  },
+  {
+    "city": "Loimaa",
+    "latitude": "60.974002407837695",
+    "longitude": "22.99303312966862"
+  },
+  {
+    "city": "Huittinen",
+    "latitude": "61.24904198066674",
+    "longitude": "22.548792818934867"
+  },
+  {
+    "city": "Pedersöre",
+    "latitude": "63.52502793378818",
+    "longitude": "23.23850774901983"
+  },
+  {
+    "city": "Ähtäri",
+    "latitude": "62.52630579219492",
+    "longitude": "24.09164566661225"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.17233173044302",
+    "longitude": "28.199404979526758"
+  },
+  {
+    "city": "Luumäki",
+    "latitude": "60.96258807782419",
+    "longitude": "27.499077517571138"
+  },
+  {
+    "city": "Utajärvi",
+    "latitude": "64.84444179454515",
+    "longitude": "26.53772411894311"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "69.1752246992646",
+    "longitude": "21.544519052435522"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.62656815524547",
+    "longitude": "25.592462251570844"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.3086183165482",
+    "longitude": "28.074650503744785"
+  },
+  {
+    "city": "Heinävesi",
+    "latitude": "62.49912977000414",
+    "longitude": "28.851104962033403"
+  },
+  {
+    "city": "Rantasalmi",
+    "latitude": "61.979794815963146",
+    "longitude": "28.552147574700506"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.82979416792007",
+    "longitude": "28.811874852486074"
+  },
+  {
+    "city": "Nurmes",
+    "latitude": "63.59559591949389",
+    "longitude": "28.74193456870571"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.60659308374929",
+    "longitude": "24.627660119290855"
+  },
+  {
+    "city": "Ähtäri",
+    "latitude": "62.4196446865826",
+    "longitude": "23.995524050787555"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.56404988246054",
+    "longitude": "26.51253147012706"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.39669209147733",
+    "longitude": "25.37608096833318"
+  },
+  {
+    "city": "Himanka",
+    "latitude": "64.04575107062244",
+    "longitude": "23.635377342657893"
+  },
+  {
+    "city": "Pello",
+    "latitude": "66.82669259017158",
+    "longitude": "24.11084822045446"
+  },
+  {
+    "city": "Pelkosenniemi",
+    "latitude": "67.26188014601826",
+    "longitude": "27.77186872465382"
+  },
+  {
+    "city": "Korsholm",
+    "latitude": "63.21440365856156",
+    "longitude": "21.19121432275275"
+  },
+  {
+    "city": "Sirkka",
+    "latitude": "67.78115124789794",
+    "longitude": "24.72460613170772"
+  },
+  {
+    "city": "Vörå",
+    "latitude": "63.21737685402958",
+    "longitude": "22.23260391585348"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.50770897302421",
+    "longitude": "28.637998363545503"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.45649212502246",
+    "longitude": "22.55000184629178"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "65.98209378627",
+    "longitude": "29.265207057574102"
+  },
+  {
+    "city": "Jäppilä",
+    "latitude": "62.33918208578356",
+    "longitude": "27.49840523919824"
+  },
+  {
+    "city": "Kolari",
+    "latitude": "66.9998962130188",
+    "longitude": "24.70333165085958"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.77931985443715",
+    "longitude": "25.345092617568763"
+  },
+  {
+    "city": "Sotkamo",
+    "latitude": "64.02064323341845",
+    "longitude": "28.31067651457412"
+  },
+  {
+    "city": "Hyrynsalmi",
+    "latitude": "64.7604970122431",
+    "longitude": "28.56848702579622"
+  },
+  {
+    "city": "Ilomantsi",
+    "latitude": "62.73260228371457",
+    "longitude": "30.942192015232298"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.64113982880077",
+    "longitude": "25.78599653665341"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.44138139798424",
+    "longitude": "28.167032072696202"
+  },
+  {
+    "city": "Rantasalmi",
+    "latitude": "62.086373838048395",
+    "longitude": "28.185767439422435"
+  },
+  {
+    "city": "Kajaani",
+    "latitude": "64.07549056746319",
+    "longitude": "27.795337576828178"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.06085737947846",
+    "longitude": "26.37415141211161"
+  },
+  {
+    "city": "Posio",
+    "latitude": "66.06579840356204",
+    "longitude": "28.265998513039143"
+  },
+  {
+    "city": "Hyrynsalmi",
+    "latitude": "64.5393617645993",
+    "longitude": "29.171156593380097"
+  },
+  {
+    "city": "Kajaani",
+    "latitude": "64.2832739108523",
+    "longitude": "27.552698433519293"
+  },
+  {
+    "city": "Alavieska",
+    "latitude": "64.11098883368224",
+    "longitude": "24.320670521309737"
+  },
+  {
+    "city": "Pello",
+    "latitude": "66.75792754141101",
+    "longitude": "24.638143970618565"
+  },
+  {
+    "city": "Ruovesi",
+    "latitude": "61.904333929767304",
+    "longitude": "24.240364056001585"
+  },
+  {
+    "city": "Pirkkala",
+    "latitude": "61.4540696774507",
+    "longitude": "23.649816212073063"
+  },
+  {
+    "city": "Kristinestad",
+    "latitude": "62.02724612754255",
+    "longitude": "21.266609872913794"
+  },
+  {
+    "city": "Rautavaara",
+    "latitude": "63.54211976864034",
+    "longitude": "28.54874296616561"
+  },
+  {
+    "city": "Saarijärvi",
+    "latitude": "62.653617367821255",
+    "longitude": "24.891504580798202"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "66.963985151239",
+    "longitude": "26.444552431136987"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.40675063126423",
+    "longitude": "26.535721999755857"
+  },
+  {
+    "city": "Hamina",
+    "latitude": "60.55339082289121",
+    "longitude": "27.178281992067067"
+  },
+  {
+    "city": "Rantasalmi",
+    "latitude": "62.16051709356294",
+    "longitude": "28.08982013690709"
+  },
+  {
+    "city": "Muonio",
+    "latitude": "67.47190825864548",
+    "longitude": "23.471311493752832"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.34554774320551",
+    "longitude": "26.088199324566624"
+  },
+  {
+    "city": "Pielavesi",
+    "latitude": "63.10640609193128",
+    "longitude": "26.900428096165108"
+  },
+  {
+    "city": "Jämsä",
+    "latitude": "61.65368720137119",
+    "longitude": "24.90305315114117"
+  },
+  {
+    "city": "Rantasalmi",
+    "latitude": "62.10876914307299",
+    "longitude": "28.206618949278276"
+  },
+  {
+    "city": "Utajärvi",
+    "latitude": "64.88913587119322",
+    "longitude": "27.022380224788172"
+  },
+  {
+    "city": "Salla",
+    "latitude": "67.00919817589998",
+    "longitude": "28.574839033091674"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.80636068136667",
+    "longitude": "25.275985519388872"
+  },
+  {
+    "city": "Lapinlahti",
+    "latitude": "63.52763706610859",
+    "longitude": "28.080225235953314"
+  },
+  {
+    "city": "Ilomantsi",
+    "latitude": "62.686131886975666",
+    "longitude": "31.310902810454362"
+  },
+  {
+    "city": "Muonio",
+    "latitude": "67.48310935787626",
+    "longitude": "23.577715034073872"
+  },
+  {
+    "city": "Ylitornio",
+    "latitude": "66.48844035905704",
+    "longitude": "24.960521953573245"
+  },
+  {
+    "city": "Pielavesi",
+    "latitude": "63.43951301263081",
+    "longitude": "26.724307691608857"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "66.1777685934052",
+    "longitude": "29.743840717353496"
+  },
+  {
+    "city": "Sastamala",
+    "latitude": "61.47938484462449",
+    "longitude": "23.00987795728524"
+  },
+  {
+    "city": "Ylitornio",
+    "latitude": "66.2461746223643",
+    "longitude": "24.270312816997915"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.67596802794581",
+    "longitude": "27.89916274451406"
+  },
+  {
+    "city": "Lieksa",
+    "latitude": "63.46786740637413",
+    "longitude": "30.256300082286028"
+  },
+  {
+    "city": "Orivesi",
+    "latitude": "61.695914956610224",
+    "longitude": "24.67156643996937"
+  },
+  {
+    "city": "Pelkosenniemi",
+    "latitude": "67.30751036144433",
+    "longitude": "27.193107417492087"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "65.86793540471096",
+    "longitude": "26.84845597219808"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.38520447130264",
+    "longitude": "26.34079242038299"
+  },
+  {
+    "city": "Posio",
+    "latitude": "66.3155225625723",
+    "longitude": "28.308828789808533"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.43480973556443",
+    "longitude": "28.517896690145065"
+  },
+  {
+    "city": "Parikkala",
+    "latitude": "61.59035990154739",
+    "longitude": "29.683739111269123"
+  },
+  {
+    "city": "Kangasniemi",
+    "latitude": "62.047573704347705",
+    "longitude": "26.76180623072839"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "63.99055894733168",
+    "longitude": "30.02517731922147"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.2349399332011",
+    "longitude": "26.23993550748856"
+  },
+  {
+    "city": "Kärsämäki",
+    "latitude": "64.03662631975618",
+    "longitude": "26.085981894463465"
+  },
+  {
+    "city": "Perho",
+    "latitude": "63.15300655600083",
+    "longitude": "24.225880779700432"
+  },
+  {
+    "city": "Huittinen",
+    "latitude": "61.15616831079246",
+    "longitude": "22.652443570285488"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.23773991365323",
+    "longitude": "26.020351608178352"
+  },
+  {
+    "city": "Äänekoski",
+    "latitude": "62.596594871589815",
+    "longitude": "26.004581997974434"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.094371609525",
+    "longitude": "28.213718196914446"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.43624935563255",
+    "longitude": "26.98159935993294"
+  },
+  {
+    "city": "Huittinen",
+    "latitude": "61.24912278307816",
+    "longitude": "22.595636362930712"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.07669500478964",
+    "longitude": "28.153135743701373"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "65.97869608997864",
+    "longitude": "25.86282553053517"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.57370744885657",
+    "longitude": "28.41968166386541"
+  },
+  {
+    "city": "Sotkamo",
+    "latitude": "64.11107503859661",
+    "longitude": "28.880934472417984"
+  },
+  {
+    "city": "Seinäjoki",
+    "latitude": "62.89176113084883",
+    "longitude": "22.811607404989083"
+  },
+  {
+    "city": "Ylöjärvi",
+    "latitude": "61.81294601339217",
+    "longitude": "23.774303625355966"
+  },
+  {
+    "city": "Lestijärvi",
+    "latitude": "63.39837890585006",
+    "longitude": "24.502451139334937"
+  },
+  {
+    "city": "Porvoo",
+    "latitude": "60.433350544115626",
+    "longitude": "25.528529901681278"
+  },
+  {
+    "city": "Kolari",
+    "latitude": "67.48013928285016",
+    "longitude": "24.33669463186372"
+  },
+  {
+    "city": "Savitaipale",
+    "latitude": "61.168418340562496",
+    "longitude": "27.35893761582242"
+  },
+  {
+    "city": "Keminmaa",
+    "latitude": "65.86846903875933",
+    "longitude": "24.946425190006696"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.60670353795696",
+    "longitude": "26.223469836564256"
+  },
+  {
+    "city": "Simpele",
+    "latitude": "61.42985444189492",
+    "longitude": "29.33195705560606"
+  },
+  {
+    "city": "Joroinen",
+    "latitude": "62.16548139288262",
+    "longitude": "27.81171600915545"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.32964979243366",
+    "longitude": "25.22619936162554"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "66.10964638131682",
+    "longitude": "28.887276025383198"
+  },
+  {
+    "city": "Liperi",
+    "latitude": "62.48993440918276",
+    "longitude": "29.225106666324344"
+  },
+  {
+    "city": "Lieksa",
+    "latitude": "63.182369719922285",
+    "longitude": "31.03774708547065"
+  },
+  {
+    "city": "Äänekoski",
+    "latitude": "62.87844776244252",
+    "longitude": "26.08167480956322"
+  },
+  {
+    "city": "Ii",
+    "latitude": "65.54941981614871",
+    "longitude": "25.766679167693262"
+  },
+  {
+    "city": "Pieksämäki",
+    "latitude": "62.32949435651857",
+    "longitude": "27.373208846874974"
+  },
+  {
+    "city": "Leppävirta",
+    "latitude": "62.67464418642579",
+    "longitude": "27.7118740383885"
+  },
+  {
+    "city": "Vieremä",
+    "latitude": "63.990238229744016",
+    "longitude": "26.735662671850317"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.74413624360572",
+    "longitude": "26.783590906145946"
+  },
+  {
+    "city": "Multia",
+    "latitude": "62.500800888327795",
+    "longitude": "24.972485179029654"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.34795630008327",
+    "longitude": "26.611411395120722"
+  },
+  {
+    "city": "Salla",
+    "latitude": "67.22908534636159",
+    "longitude": "29.07517074828436"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.70676274506273",
+    "longitude": "23.69627995241375"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.26838026479203",
+    "longitude": "26.921099964071832"
+  },
+  {
+    "city": "Kolari",
+    "latitude": "67.04978031830949",
+    "longitude": "24.720211015553097"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.2193713932486",
+    "longitude": "26.895506211548618"
+  },
+  {
+    "city": "Kitee",
+    "latitude": "61.930106239016474",
+    "longitude": "29.654380655359986"
+  },
+  {
+    "city": "Padasjoki",
+    "latitude": "61.482144512224295",
+    "longitude": "25.43937568107646"
+  },
+  {
+    "city": "Kokemäki",
+    "latitude": "61.38103651578039",
+    "longitude": "22.563212743904135"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.72836978961179",
+    "longitude": "27.02179972330343"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.97318704184619",
+    "longitude": "25.89198709467815"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.75400114236369",
+    "longitude": "29.102145204186467"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.4520795261231",
+    "longitude": "25.902922984445425"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.66141446885382",
+    "longitude": "26.17805678768272"
+  },
+  {
+    "city": "Muonio",
+    "latitude": "67.72382350492795",
+    "longitude": "24.14244502566646"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.50344360066721",
+    "longitude": "25.534476416295355"
+  },
+  {
+    "city": "Tampere",
+    "latitude": "61.46428417045851",
+    "longitude": "23.857431787997044"
+  },
+  {
+    "city": "Salla",
+    "latitude": "67.38481229899467",
+    "longitude": "29.45897102522804"
+  },
+  {
+    "city": "Siikalatva",
+    "latitude": "64.54087921443967",
+    "longitude": "25.540559018617415"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "65.97231303671362",
+    "longitude": "28.40230811910657"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.53306320934736",
+    "longitude": "28.15744350346329"
+  },
+  {
+    "city": "Nurmes",
+    "latitude": "63.64135485654604",
+    "longitude": "28.711006279825714"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "69.05808050754288",
+    "longitude": "21.656650126642262"
+  },
+  {
+    "city": "Kalajoki",
+    "latitude": "64.11691952008029",
+    "longitude": "23.673086505090517"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "64.20879543293998",
+    "longitude": "29.535800140473253"
+  },
+  {
+    "city": "Raahe",
+    "latitude": "64.62793456253404",
+    "longitude": "24.492209690573567"
+  },
+  {
+    "city": "Kurikka",
+    "latitude": "62.56408779850356",
+    "longitude": "22.703029482936177"
+  },
+  {
+    "city": "Laukaa",
+    "latitude": "62.36759646998258",
+    "longitude": "26.15596080119528"
+  },
+  {
+    "city": "Oulu",
+    "latitude": "65.11090427249805",
+    "longitude": "25.54759924945181"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "62.738165041041704",
+    "longitude": "28.15268725170817"
+  },
+  {
+    "city": "Somero",
+    "latitude": "60.600295035348694",
+    "longitude": "23.23169576403465"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.5586810350297",
+    "longitude": "27.777255737067875"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "64.76963457215568",
+    "longitude": "29.572632089882664"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.97395992927382",
+    "longitude": "28.03147661711095"
+  },
+  {
+    "city": "Kemijärvi",
+    "latitude": "66.69708995807729",
+    "longitude": "27.33694338828065"
+  },
+  {
+    "city": "Hartola",
+    "latitude": "61.701879430690546",
+    "longitude": "25.973980433029286"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "65.5267424109643",
+    "longitude": "29.358021331810097"
+  },
+  {
+    "city": "Kivijärvi",
+    "latitude": "63.17673466914329",
+    "longitude": "25.164256827362866"
+  },
+  {
+    "city": "Ilomantsi",
+    "latitude": "62.735163219086985",
+    "longitude": "30.688486258120705"
+  },
+  {
+    "city": "Tervo",
+    "latitude": "63.04336936066035",
+    "longitude": "26.63441126663099"
+  },
+  {
+    "city": "Kannus",
+    "latitude": "63.860744792628054",
+    "longitude": "23.822818737848184"
+  },
+  {
+    "city": "Padasjoki",
+    "latitude": "61.31455801879196",
+    "longitude": "25.377465387280232"
+  },
+  {
+    "city": "Pelkosenniemi",
+    "latitude": "67.07276862786553",
+    "longitude": "27.023799031695532"
+  },
+  {
+    "city": "Puumala",
+    "latitude": "61.53893902690465",
+    "longitude": "28.005125094395538"
+  },
+  {
+    "city": "Loviisa",
+    "latitude": "60.47877496238937",
+    "longitude": "26.189811324057207"
+  },
+  {
+    "city": "Tervo",
+    "latitude": "63.022023820184856",
+    "longitude": "26.79332122069576"
+  },
+  {
+    "city": "Kajaani",
+    "latitude": "64.04765051410345",
+    "longitude": "27.78984505863969"
+  },
+  {
+    "city": "Ruokolahti",
+    "latitude": "61.418302920785266",
+    "longitude": "28.7818238626923"
+  },
+  {
+    "city": "Kokkola",
+    "latitude": "63.88304765799237",
+    "longitude": "23.643822595984822"
+  },
+  {
+    "city": "Vesanto",
+    "latitude": "62.94065369022795",
+    "longitude": "26.60907063387903"
+  },
+  {
+    "city": "Pyhäjärvi",
+    "latitude": "63.63264250997651",
+    "longitude": "25.520985006099917"
+  },
+  {
+    "city": "Ylitornio",
+    "latitude": "66.61736368315252",
+    "longitude": "25.015289163502462"
+  },
+  {
+    "city": "Kajaani",
+    "latitude": "64.26543592024282",
+    "longitude": "27.789740543750145"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "64.2472156367741",
+    "longitude": "29.512968602172162"
+  },
+  {
+    "city": "Tohmajärvi",
+    "latitude": "62.16910845721927",
+    "longitude": "30.271840204944883"
+  },
+  {
+    "city": "Rautalampi",
+    "latitude": "62.61650664338935",
+    "longitude": "26.678295606468858"
+  },
+  {
+    "city": "Iitti",
+    "latitude": "61.077016927084294",
+    "longitude": "26.27996405048616"
+  },
+  {
+    "city": "Taivalkoski",
+    "latitude": "65.54270807745068",
+    "longitude": "28.16388314381944"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.37756780157552",
+    "longitude": "24.186818258623063"
+  },
+  {
+    "city": "Oulainen",
+    "latitude": "64.2023347278624",
+    "longitude": "24.641684617794454"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.33489217203936",
+    "longitude": "26.69199055164214"
+  },
+  {
+    "city": "Hämeenlinna",
+    "latitude": "61.171070490682816",
+    "longitude": "24.463424212046476"
+  },
+  {
+    "city": "Siikalatva",
+    "latitude": "64.50922811594401",
+    "longitude": "25.76656208713158"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.52700233389535",
+    "longitude": "23.61157681610997"
+  },
+  {
+    "city": "Saarijärvi",
+    "latitude": "62.817432324480016",
+    "longitude": "25.070397144838214"
+  },
+  {
+    "city": "Perho",
+    "latitude": "63.319224023092396",
+    "longitude": "24.32349169084123"
+  },
+  {
+    "city": "Savitaipale",
+    "latitude": "61.12508644010877",
+    "longitude": "27.224369519858122"
+  },
+  {
+    "city": "Merikarvia",
+    "latitude": "61.93538525693889",
+    "longitude": "21.383614139884425"
+  },
+  {
+    "city": "Puumala",
+    "latitude": "61.407865988462696",
+    "longitude": "28.114187215219353"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.28347968493385",
+    "longitude": "27.976824941424887"
+  },
+  {
+    "city": "Sonkajärvi",
+    "latitude": "63.82079439611473",
+    "longitude": "27.8502188780862"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.28764042690968",
+    "longitude": "27.576549138209433"
+  },
+  {
+    "city": "Ii",
+    "latitude": "65.58243256731339",
+    "longitude": "25.820034509280635"
+  },
+  {
+    "city": "Lohja",
+    "latitude": "60.16297772089833",
+    "longitude": "23.98443366767208"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.92141779677473",
+    "longitude": "27.679504364486455"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "66.04281267890582",
+    "longitude": "27.323963906467394"
+  },
+  {
+    "city": "Tampere",
+    "latitude": "61.50190979126343",
+    "longitude": "23.727956448631346"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "65.88228151425676",
+    "longitude": "27.067617277267537"
+  },
+  {
+    "city": "Jyväskylä",
+    "latitude": "62.36911467350753",
+    "longitude": "25.76428408982652"
+  },
+  {
+    "city": "Uusikaupunki",
+    "latitude": "60.77354724907482",
+    "longitude": "21.438508781512496"
+  },
+  {
+    "city": "Soini",
+    "latitude": "62.97414167596771",
+    "longitude": "24.143107451069696"
+  },
+  {
+    "city": "Rautio",
+    "latitude": "64.02422136433209",
+    "longitude": "24.32555730075715"
+  },
+  {
+    "city": "Pyhäjärvi",
+    "latitude": "63.80169218065416",
+    "longitude": "25.866546191305375"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "65.86363140879524",
+    "longitude": "29.19697117331117"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.94039262963996",
+    "longitude": "27.72294921441566"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.71715749788763",
+    "longitude": "24.42285501952008"
+  },
+  {
+    "city": "Kinnula",
+    "latitude": "63.288390590842155",
+    "longitude": "25.01984865190656"
+  },
+  {
+    "city": "Rääkkylä",
+    "latitude": "62.229263942156095",
+    "longitude": "29.83701990375971"
+  },
+  {
+    "city": "Kitee",
+    "latitude": "62.11480685803623",
+    "longitude": "29.971638375943794"
+  },
+  {
+    "city": "Ylitornio",
+    "latitude": "66.3393593070015",
+    "longitude": "24.325498130051407"
+  },
+  {
+    "city": "Kemijärvi",
+    "latitude": "66.61936615879543",
+    "longitude": "26.886317639414507"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "63.24027526336095",
+    "longitude": "27.820577137420997"
+  },
+  {
+    "city": "Mikkeli",
+    "latitude": "61.6225575042335",
+    "longitude": "27.084277332454313"
+  },
+  {
+    "city": "Ylivieska",
+    "latitude": "63.99758340327698",
+    "longitude": "24.42559380931067"
+  },
+  {
+    "city": "Rääkkylä",
+    "latitude": "62.314727151725656",
+    "longitude": "29.546156294666247"
+  },
+  {
+    "city": "Pori",
+    "latitude": "61.5683276791091",
+    "longitude": "22.31568075680975"
+  },
+  {
+    "city": "Oulu",
+    "latitude": "65.19700152302073",
+    "longitude": "25.726126191759022"
+  },
+  {
+    "city": "Somero",
+    "latitude": "60.590338696584155",
+    "longitude": "23.38757243861766"
+  },
+  {
+    "city": "Lapinlahti",
+    "latitude": "63.39373097489685",
+    "longitude": "27.19909672057515"
+  },
+  {
+    "city": "Ruokolahti",
+    "latitude": "61.43922770485952",
+    "longitude": "28.555472784347536"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.81133777700592",
+    "longitude": "28.544934684985257"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.27964462173651",
+    "longitude": "28.860864970952925"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.94589675216002",
+    "longitude": "27.471622933026183"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.24943900618699",
+    "longitude": "27.141505037567065"
+  },
+  {
+    "city": "Mikkeli",
+    "latitude": "61.724866299624225",
+    "longitude": "27.14443227210987"
+  },
+  {
+    "city": "Puolanka",
+    "latitude": "64.79576714808553",
+    "longitude": "28.014874127558706"
+  },
+  {
+    "city": "Siikalatva",
+    "latitude": "64.46486732292217",
+    "longitude": "25.5625883261506"
+  },
+  {
+    "city": "Kajaani",
+    "latitude": "64.00559836582703",
+    "longitude": "27.889319983752742"
+  },
+  {
+    "city": "Muonio",
+    "latitude": "68.10298826004465",
+    "longitude": "23.882753032602707"
+  },
+  {
+    "city": "Jämsä",
+    "latitude": "62.02188387966828",
+    "longitude": "25.04272149303013"
+  },
+  {
+    "city": "Karijoki",
+    "latitude": "62.303858983952075",
+    "longitude": "21.80954279771729"
+  },
+  {
+    "city": "Siikajoki",
+    "latitude": "64.79201878890035",
+    "longitude": "24.632713352644824"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.66321921172926",
+    "longitude": "25.678160363346024"
+  },
+  {
+    "city": "Vieremä",
+    "latitude": "63.986147470098736",
+    "longitude": "26.67631309181189"
+  },
+  {
+    "city": "Savonlinna",
+    "latitude": "61.932452484324074",
+    "longitude": "28.806858753964512"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.98056446831924",
+    "longitude": "28.486202444079268"
+  },
+  {
+    "city": "Kiuruvesi",
+    "latitude": "63.811297598644586",
+    "longitude": "26.709735258526294"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.01514147697887",
+    "longitude": "27.16184809389795"
+  },
+  {
+    "city": "Kaustinen",
+    "latitude": "63.57347293489099",
+    "longitude": "24.035174214745965"
+  },
+  {
+    "city": "Huittinen",
+    "latitude": "61.15998157943341",
+    "longitude": "22.85902429771122"
+  },
+  {
+    "city": "Ruovesi",
+    "latitude": "62.061517491378545",
+    "longitude": "23.92087406410923"
+  },
+  {
+    "city": "Viitasaari",
+    "latitude": "62.91574922072866",
+    "longitude": "25.760704965478087"
+  },
+  {
+    "city": "Liperi",
+    "latitude": "62.57086364401174",
+    "longitude": "29.49104768891641"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "66.05328262523989",
+    "longitude": "27.095974621974005"
+  },
+  {
+    "city": "Puolanka",
+    "latitude": "64.97256861967642",
+    "longitude": "27.426622456745868"
+  },
+  {
+    "city": "Tuusniemi",
+    "latitude": "62.816537473087585",
+    "longitude": "28.709663118327025"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "64.34309499052773",
+    "longitude": "28.917343386875775"
+  },
+  {
+    "city": "Savitaipale",
+    "latitude": "61.27216963512195",
+    "longitude": "27.651983409996877"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.49435823434906",
+    "longitude": "25.835453775670473"
+  },
+  {
+    "city": "Keuruu",
+    "latitude": "62.325377607995264",
+    "longitude": "24.601295734523664"
+  },
+  {
+    "city": "Joensuu",
+    "latitude": "62.439916980728476",
+    "longitude": "30.7849301765604"
+  },
+  {
+    "city": "Sysmä",
+    "latitude": "61.426246548961416",
+    "longitude": "26.03584160115654"
+  },
+  {
+    "city": "Viitasaari",
+    "latitude": "62.95420870230202",
+    "longitude": "26.0806330875085"
+  },
+  {
+    "city": "Ähtäri",
+    "latitude": "62.508895081087644",
+    "longitude": "23.991036744858693"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.1574707923824",
+    "longitude": "23.82672115435349"
+  },
+  {
+    "city": "Siikalatva",
+    "latitude": "64.11264417893521",
+    "longitude": "25.84706640048234"
+  },
+  {
+    "city": "Joensuu",
+    "latitude": "62.58799108483576",
+    "longitude": "29.820847903927827"
+  },
+  {
+    "city": "Lapinlahti",
+    "latitude": "63.231642209809415",
+    "longitude": "27.399615782861776"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.23205056770385",
+    "longitude": "26.10774248812869"
+  },
+  {
+    "city": "Tervo",
+    "latitude": "62.8410442443595",
+    "longitude": "26.75028667721531"
+  },
+  {
+    "city": "Yläne",
+    "latitude": "60.87774346732209",
+    "longitude": "22.462025819391556"
+  },
+  {
+    "city": "Kristinestad",
+    "latitude": "62.32625804377003",
+    "longitude": "21.47899817483033"
+  },
+  {
+    "city": "Kaavi",
+    "latitude": "62.86601039263087",
+    "longitude": "28.911070301034087"
+  },
+  {
+    "city": "Sauvo",
+    "latitude": "60.21154039393055",
+    "longitude": "22.548111214505507"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.76519688544255",
+    "longitude": "25.854636459278545"
+  },
+  {
+    "city": "Loviisa",
+    "latitude": "60.60915648353715",
+    "longitude": "26.463787941642458"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "66.18160701242171",
+    "longitude": "29.08694218448698"
+  },
+  {
+    "city": "Siikajoki",
+    "latitude": "64.57995369181246",
+    "longitude": "24.97713207474885"
+  },
+  {
+    "city": "Salo",
+    "latitude": "60.19831415107863",
+    "longitude": "23.520051711781576"
+  },
+  {
+    "city": "Vaasa",
+    "latitude": "63.075173566851625",
+    "longitude": "22.16574680979429"
+  },
+  {
+    "city": "Pertunmaa",
+    "latitude": "61.54063793965939",
+    "longitude": "26.551436400646793"
+  },
+  {
+    "city": "Loviisa",
+    "latitude": "60.41482816289053",
+    "longitude": "26.40659871947032"
+  },
+  {
+    "city": "Raahe",
+    "latitude": "64.74303707880246",
+    "longitude": "24.628520844048985"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.72471924824147",
+    "longitude": "28.307599706476363"
+  },
+  {
+    "city": "Kemijärvi",
+    "latitude": "66.70914480244059",
+    "longitude": "27.907294521152497"
+  },
+  {
+    "city": "Joensuu",
+    "latitude": "62.483192648409414",
+    "longitude": "30.80003808412005"
+  },
+  {
+    "city": "Tornio",
+    "latitude": "66.06399285210819",
+    "longitude": "24.17892182909145"
+  },
+  {
+    "city": "Ähtäri",
+    "latitude": "62.617050752730826",
+    "longitude": "24.497895637928973"
+  },
+  {
+    "city": "Karvia",
+    "latitude": "62.07247040109638",
+    "longitude": "22.745673602113673"
+  },
+  {
+    "city": "Posio",
+    "latitude": "66.23150277696632",
+    "longitude": "28.274505043731075"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.20169694347958",
+    "longitude": "25.90462387576507"
+  },
+  {
+    "city": "Joensuu",
+    "latitude": "62.60176200687117",
+    "longitude": "29.797636286569848"
+  },
+  {
+    "city": "Simo",
+    "latitude": "66.08154258304148",
+    "longitude": "25.64578346595858"
+  },
+  {
+    "city": "Soini",
+    "latitude": "62.76826179457451",
+    "longitude": "24.319573947446372"
+  },
+  {
+    "city": "Juuka",
+    "latitude": "63.18147679517837",
+    "longitude": "29.606159981816766"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "64.61481646429331",
+    "longitude": "29.334306329418705"
+  },
+  {
+    "city": "Salo",
+    "latitude": "60.31013029260161",
+    "longitude": "23.31767856402368"
+  },
+  {
+    "city": "Kronoby",
+    "latitude": "63.77900116977376",
+    "longitude": "23.057648426118867"
+  },
+  {
+    "city": "Rääkkylä",
+    "latitude": "62.2475387381913",
+    "longitude": "29.810920983856327"
+  },
+  {
+    "city": "Iisalmi",
+    "latitude": "63.62039610684064",
+    "longitude": "26.851650220466546"
+  },
+  {
+    "city": "Kemijärvi",
+    "latitude": "66.58366200877721",
+    "longitude": "27.839173627426664"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.72991715472078",
+    "longitude": "27.201384805157996"
+  },
+  {
+    "city": "Ii",
+    "latitude": "65.7091790526488",
+    "longitude": "25.594480354948953"
+  },
+  {
+    "city": "Jyväskylä",
+    "latitude": "62.27540991086113",
+    "longitude": "25.829024998155017"
+  },
+  {
+    "city": "Rautavaara",
+    "latitude": "63.30355889425276",
+    "longitude": "28.576700026015175"
+  },
+  {
+    "city": "Sukeva",
+    "latitude": "63.80753577999983",
+    "longitude": "27.392184729234373"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.38163819935593",
+    "longitude": "24.043768142101577"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.63777124255736",
+    "longitude": "27.59738172242"
+  },
+  {
+    "city": "Kuusamo",
+    "latitude": "65.88616958997594",
+    "longitude": "28.71299058797205"
+  },
+  {
+    "city": "Utajärvi",
+    "latitude": "64.83867930988826",
+    "longitude": "27.356112264743352"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.64395487797181",
+    "longitude": "26.927908645525402"
+  },
+  {
+    "city": "Posio",
+    "latitude": "65.95677617556709",
+    "longitude": "27.892542695394255"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.5845129787303",
+    "longitude": "25.718077258789933"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.1678128300046",
+    "longitude": "29.40271863294098"
+  },
+  {
+    "city": "Joutsa",
+    "latitude": "61.80843649569179",
+    "longitude": "25.9127386178783"
+  },
+  {
+    "city": "Jämsä",
+    "latitude": "61.79959495635313",
+    "longitude": "24.880920178168715"
+  },
+  {
+    "city": "Tervo",
+    "latitude": "62.94335073998714",
+    "longitude": "26.899898676561147"
+  },
+  {
+    "city": "Ilomantsi",
+    "latitude": "62.66286476001552",
+    "longitude": "30.715604874873147"
+  },
+  {
+    "city": "Pyhäranta",
+    "latitude": "60.99648922692258",
+    "longitude": "21.37220584498809"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.34520924839165",
+    "longitude": "27.1155219676677"
+  },
+  {
+    "city": "Keuruu",
+    "latitude": "62.0745794294689",
+    "longitude": "24.760398359690203"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.1382379759776",
+    "longitude": "28.251539086716807"
+  },
+  {
+    "city": "Merikarvia",
+    "latitude": "61.9093815994726",
+    "longitude": "21.464333207531013"
+  },
+  {
+    "city": "Ylihärmä",
+    "latitude": "63.13536626492202",
+    "longitude": "22.796632417898728"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.01472077697017",
+    "longitude": "29.12892686547493"
+  },
+  {
+    "city": "Juuka",
+    "latitude": "63.319224025538915",
+    "longitude": "28.85674204454281"
+  },
+  {
+    "city": "Pylkönmäki",
+    "latitude": "62.669753477466124",
+    "longitude": "24.85570794002647"
+  },
+  {
+    "city": "Kiuruvesi",
+    "latitude": "63.710733721736084",
+    "longitude": "26.56068551847097"
+  },
+  {
+    "city": "Toholampi",
+    "latitude": "63.806251119287545",
+    "longitude": "24.32386042793055"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.74051027283157",
+    "longitude": "25.458675578005618"
+  },
+  {
+    "city": "Oulu",
+    "latitude": "65.24190443699057",
+    "longitude": "25.77946535513945"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.1144108584896",
+    "longitude": "27.407672304993877"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.86647546799621",
+    "longitude": "26.41389133318883"
+  },
+  {
+    "city": "Raseborg",
+    "latitude": "59.935291539451384",
+    "longitude": "23.306398950620853"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.6296540573803",
+    "longitude": "28.864969761856013"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "62.98813948096891",
+    "longitude": "27.867136926252403"
+  },
+  {
+    "city": "Soini",
+    "latitude": "62.80258361183531",
+    "longitude": "24.307060746130382"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "69.00500007196455",
+    "longitude": "21.952801738660185"
+  },
+  {
+    "city": "Lappeenranta",
+    "latitude": "61.1319387395406",
+    "longitude": "28.668925399438766"
+  },
+  {
+    "city": "Muuruvesi",
+    "latitude": "63.024804599646934",
+    "longitude": "28.158990482119847"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.17364747705899",
+    "longitude": "25.780063969957993"
+  },
+  {
+    "city": "Pomarkku",
+    "latitude": "61.74877617569192",
+    "longitude": "22.271371504776674"
+  },
+  {
+    "city": "Haapavesi",
+    "latitude": "64.06504911395005",
+    "longitude": "25.393356503159445"
+  },
+  {
+    "city": "Pielavesi",
+    "latitude": "63.28221037864883",
+    "longitude": "26.689666713939406"
+  },
+  {
+    "city": "Salo",
+    "latitude": "60.26386639495926",
+    "longitude": "23.231419400926455"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "67.07809358745527",
+    "longitude": "25.24946645487366"
+  },
+  {
+    "city": "Joensuu",
+    "latitude": "62.94611695841827",
+    "longitude": "30.069865849885325"
+  },
+  {
+    "city": "Liminka",
+    "latitude": "64.56375639645093",
+    "longitude": "25.689929103011643"
+  },
+  {
+    "city": "Salla",
+    "latitude": "66.89472275790284",
+    "longitude": "27.89677358123648"
+  },
+  {
+    "city": "Salo",
+    "latitude": "60.09210072488255",
+    "longitude": "23.089365842757495"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "64.1593540599659",
+    "longitude": "29.553660612064398"
+  },
+  {
+    "city": "Vesilahti",
+    "latitude": "61.35578606561674",
+    "longitude": "23.480609513619363"
+  },
+  {
+    "city": "Pudasjärvi",
+    "latitude": "65.32045686563121",
+    "longitude": "27.2515454419237"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.52051997346842",
+    "longitude": "27.060827544663976"
+  },
+  {
+    "city": "Ilomantsi",
+    "latitude": "62.96534057940612",
+    "longitude": "30.92003313616825"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.74616248307727",
+    "longitude": "26.873642620670534"
+  },
+  {
+    "city": "Salla",
+    "latitude": "67.51104783632286",
+    "longitude": "29.573676460444357"
+  },
+  {
+    "city": "Kuopio",
+    "latitude": "62.67732479061534",
+    "longitude": "28.291221756033323"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.8930419752331",
+    "longitude": "22.138911574096838"
+  },
+  {
+    "city": "Taivalkoski",
+    "latitude": "65.39941913429524",
+    "longitude": "28.558125440733793"
+  },
+  {
+    "city": "Seinäjoki",
+    "latitude": "62.743806026508345",
+    "longitude": "22.98804065852709"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.28526711041243",
+    "longitude": "26.89105706581676"
+  },
+  {
+    "city": "Vuokatti",
+    "latitude": "64.17986518755234",
+    "longitude": "28.36217483375071"
+  },
+  {
+    "city": "Kristinestad",
+    "latitude": "62.09314436688387",
+    "longitude": "21.51544792606343"
+  },
+  {
+    "city": "Utsjoki",
+    "latitude": "69.41066455655476",
+    "longitude": "26.440856603573636"
+  },
+  {
+    "city": "Kokkola",
+    "latitude": "63.997039155616",
+    "longitude": "23.370451793077663"
+  },
+  {
+    "city": "Simo",
+    "latitude": "65.85437653766387",
+    "longitude": "25.239167147070166"
+  },
+  {
+    "city": "Ylöjärvi",
+    "latitude": "61.888093761489515",
+    "longitude": "23.75718539818896"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.5063910676219",
+    "longitude": "22.186693899803103"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.12940108836673",
+    "longitude": "29.155465365383797"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.53270592508107",
+    "longitude": "25.756801154678737"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "64.06305857024887",
+    "longitude": "30.218467654774212"
+  },
+  {
+    "city": "Parkano",
+    "latitude": "62.170502390035445",
+    "longitude": "22.86543445930351"
+  },
+  {
+    "city": "Ähtäri",
+    "latitude": "62.52510508878472",
+    "longitude": "24.508083145403596"
+  },
+  {
+    "city": "Rantasalmi",
+    "latitude": "61.99857367975344",
+    "longitude": "28.602879726425357"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "63.82431159639975",
+    "longitude": "30.046217954830052"
+  },
+  {
+    "city": "Mikkeli",
+    "latitude": "61.91667857705657",
+    "longitude": "27.04614874645572"
+  },
+  {
+    "city": "Saarijärvi",
+    "latitude": "62.77373913344902",
+    "longitude": "25.278341281692732"
+  },
+  {
+    "city": "Sievi",
+    "latitude": "64.00829433392252",
+    "longitude": "24.346643552888263"
+  },
+  {
+    "city": "Lapua",
+    "latitude": "62.87714810890526",
+    "longitude": "23.28816782748035"
+  },
+  {
+    "city": "Pyhäjärvi",
+    "latitude": "63.70746661750527",
+    "longitude": "26.16057735434145"
+  },
+  {
+    "city": "Savukoski",
+    "latitude": "67.82264667269047",
+    "longitude": "28.9376771434851"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.65691427170408",
+    "longitude": "26.414854370917517"
+  },
+  {
+    "city": "Kajaani",
+    "latitude": "63.98985937118438",
+    "longitude": "27.391018555604806"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.68469705636046",
+    "longitude": "25.92698469464986"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.14014895099683",
+    "longitude": "28.07772067739798"
+  },
+  {
+    "city": "Parikkala",
+    "latitude": "61.538612001512845",
+    "longitude": "29.370772896830303"
+  },
+  {
+    "city": "Nurmes",
+    "latitude": "63.781276677280296",
+    "longitude": "29.603922608995973"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.50513014630998",
+    "longitude": "29.35897636720456"
+  },
+  {
+    "city": "Pihtipudas",
+    "latitude": "63.48212586688298",
+    "longitude": "25.464244737044687"
+  },
+  {
+    "city": "Joensuu",
+    "latitude": "62.40234699165152",
+    "longitude": "30.439062113138707"
+  },
+  {
+    "city": "Kokemäki",
+    "latitude": "61.33907407291921",
+    "longitude": "22.533382953610502"
+  },
+  {
+    "city": "Pielavesi",
+    "latitude": "63.09991051067926",
+    "longitude": "26.784556706902638"
+  },
+  {
+    "city": "Närpes",
+    "latitude": "62.53115187692328",
+    "longitude": "21.25093141990747"
+  },
+  {
+    "city": "Salo",
+    "latitude": "60.346883850769046",
+    "longitude": "23.19924212775996"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.21753174792417",
+    "longitude": "27.846660203577347"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.75483839327897",
+    "longitude": "25.120167142494314"
+  },
+  {
+    "city": "Oulu",
+    "latitude": "65.27412685145325",
+    "longitude": "26.066170962952626"
+  },
+  {
+    "city": "Salla",
+    "latitude": "67.15582700715811",
+    "longitude": "29.078151666569457"
+  },
+  {
+    "city": "Vesanto",
+    "latitude": "62.848056583020615",
+    "longitude": "26.438158702992588"
+  },
+  {
+    "city": "Inari",
+    "latitude": "69.16276479804054",
+    "longitude": "26.551059255299005"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "69.0213541097724",
+    "longitude": "21.715951446997963"
+  },
+  {
+    "city": "Närpes",
+    "latitude": "62.716275561700925",
+    "longitude": "21.50158594230357"
+  },
+  {
+    "city": "Kontiolahti",
+    "latitude": "62.57651117598785",
+    "longitude": "29.93317088831643"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.80329200751319",
+    "longitude": "21.96193045085019"
+  },
+  {
+    "city": "Ranua",
+    "latitude": "66.12816071889404",
+    "longitude": "26.15316785805949"
+  },
+  {
+    "city": "Savonlinna",
+    "latitude": "62.15614319621503",
+    "longitude": "29.287430080761364"
+  },
+  {
+    "city": "Punkalaidun",
+    "latitude": "61.03254397705793",
+    "longitude": "23.056211892032145"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.00095372433856",
+    "longitude": "28.01182366004347"
+  },
+  {
+    "city": "Kittilä",
+    "latitude": "67.75291587122655",
+    "longitude": "24.484385899879655"
+  },
+  {
+    "city": "Mikkeli",
+    "latitude": "61.305322647916",
+    "longitude": "27.45935170389867"
+  },
+  {
+    "city": "Vaala",
+    "latitude": "64.5004782688598",
+    "longitude": "27.163741492992433"
+  },
+  {
+    "city": "Tammela",
+    "latitude": "60.71043199396253",
+    "longitude": "23.622462833128022"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.64032780970481",
+    "longitude": "22.4737410106437"
+  },
+  {
+    "city": "Ylöjärvi",
+    "latitude": "61.804858846370685",
+    "longitude": "23.71739444507574"
+  },
+  {
+    "city": "Pello",
+    "latitude": "66.93536857788156",
+    "longitude": "24.68296349021078"
+  },
+  {
+    "city": "Pihtipudas",
+    "latitude": "63.363350039209976",
+    "longitude": "25.566637114355633"
+  },
+  {
+    "city": "Siikalatva",
+    "latitude": "64.41396514302626",
+    "longitude": "25.69828223312114"
+  },
+  {
+    "city": "Sotkamo",
+    "latitude": "64.23787377000612",
+    "longitude": "28.278514010677057"
+  },
+  {
+    "city": "Vesanto",
+    "latitude": "62.85679069134455",
+    "longitude": "26.59096570808379"
+  },
+  {
+    "city": "Mäntsälä",
+    "latitude": "60.753837028637975",
+    "longitude": "25.353451694824173"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.43977554332486",
+    "longitude": "29.44039241366306"
+  },
+  {
+    "city": "Kuhmo",
+    "latitude": "64.38860575710449",
+    "longitude": "29.316580896446556"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "68.17301613108839",
+    "longitude": "27.347205534932904"
+  },
+  {
+    "city": "Kolari",
+    "latitude": "67.09331776379335",
+    "longitude": "24.497753581181342"
+  },
+  {
+    "city": "Imatra",
+    "latitude": "61.20499889984905",
+    "longitude": "28.84729035743417"
+  },
+  {
+    "city": "Tervola",
+    "latitude": "65.98019976520644",
+    "longitude": "25.014399494102125"
+  },
+  {
+    "city": "Karstula",
+    "latitude": "62.784102524789134",
+    "longitude": "24.88940249739299"
+  },
+  {
+    "city": "Haapavesi",
+    "latitude": "64.23129670154636",
+    "longitude": "25.18348895241994"
+  },
+  {
+    "city": "Kemijärvi",
+    "latitude": "66.96157761964844",
+    "longitude": "26.79301427935603"
+  },
+  {
+    "city": "Enontekiö",
+    "latitude": "68.55301163597377",
+    "longitude": "23.294802211018908"
+  },
+  {
+    "city": "Keitele",
+    "latitude": "63.31167395631251",
+    "longitude": "26.153606669985166"
+  },
+  {
+    "city": "Suomussalmi",
+    "latitude": "65.02385898096959",
+    "longitude": "28.93964522954099"
+  },
+  {
+    "city": "Hyrynsalmi",
+    "latitude": "64.55213972574909",
+    "longitude": "28.884623795748123"
+  },
+  {
+    "city": "Tornio",
+    "latitude": "65.8602811986794",
+    "longitude": "24.24608117704069"
+  },
+  {
+    "city": "Sodankylä",
+    "latitude": "67.25016272663882",
+    "longitude": "26.43406367832188"
+  },
+  {
+    "city": "Inari",
+    "latitude": "68.77796992689912",
+    "longitude": "25.32700971327902"
+  },
+  {
+    "city": "Rovaniemi",
+    "latitude": "66.26605763734082",
+    "longitude": "25.597254425031576"
+  },
+  {
+    "city": "Orivesi",
+    "latitude": "61.566082059124724",
+    "longitude": "24.85579517127669"
+  }
+]

@@ -1,0 +1,35 @@
+[
+	{
+		"location": [{
+			"value": "Helsinki",
+			"latitude": "24.941025",
+			"longitude": "60.173324"
+		},
+		{
+			"value": "Pori",
+			"latitude": "21.797444",
+			"longitude": "61.485200"
+		},
+		{
+			"value": "Rauma",
+			"latitude": "21.505959",
+			"longitude": "61.130842"
+		},
+		{
+			"value": "Oulu",
+			"latitude": "25.471453",
+			"longitude": "65.012615"
+		},
+		{
+			"value": "Rovaniemi",
+			"latitude": "25.724999",
+			"longitude": "66.497022"
+		},
+		{
+			"value": "Espoo",
+			"latitude": "24.655900",
+			"longitude": "60.205491"
+		}
+	]
+	}
+]
