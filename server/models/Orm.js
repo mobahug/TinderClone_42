@@ -6,13 +6,12 @@ class Orm {
     this.primaryKey = primaryKey;
   }
 
-  /*     const sql = `SELECT setval(${`*`}, (SELECT MAX (id) FROM ${this.table} WHERE ${whereColumn}='${where}'))`; */
-
   get(selectColumn, whereColumn, where) {
-    const sql = `SELECT ${selectColumn} FROM ${this.table} WHERE ${whereColumn}='${where}'`;
-    console.log(sql);
+    const sql = `SELECT ${selectColumn} FROM ${this.table} WHERE ${whereColumn}=$1`;
+    const values = [where];
+    //console.log(sql);
     return new Promise((resolve, reject) => {
-      pool.query(sql, (err, res) => {
+      pool.query(sql, values, (err, res) => {
         if (err) {
           reject(err);
         } else {
@@ -24,7 +23,7 @@ class Orm {
 
   getAll() {
     const sql = `SELECT * FROM ${this.table}`;
-    console.log(sql);
+    // console.log(sql);
     return new Promise((resolve, reject) => {
       pool.query(sql, (err, res) => {
         if (err) {
@@ -38,10 +37,10 @@ class Orm {
 
   getAllWhere(format, condition) {
     let sql = `SELECT * FROM ${this.table} WHERE ${condition}`;
-    if( format.length != 0){
+    if (format.length != 0) {
       sql = `SELECT *, ${format} FROM ${this.table} WHERE ${condition}`;
     }
-    console.log(sql);
+    // console.log(sql);
     return new Promise((resolve, reject) => {
       pool.query(sql, (err, res) => {
         if (err) {
@@ -53,11 +52,13 @@ class Orm {
     });
   }
 
-  getAllFields(table, whereColumn, where) {
-    const sql = `SELECT * FROM ${this.table} WHERE ${whereColumn}='${where}'`;
-    console.log(sql);
+  getAllFields(whereColumn, where) {
+    const sql = `SELECT * FROM ${this.table} WHERE ${whereColumn}=$1`;
+    const values = [where];
+    // console.log(sql);
+    // console.log('value: ' + where);
     return new Promise((resolve, reject) => {
-      pool.query(sql, (err, res) => {
+      pool.query(sql, values, (err, res) => {
         if (err) {
           reject(err);
         } else {
@@ -67,11 +68,24 @@ class Orm {
     });
   }
 
-  insert(columns, values) {
-    const sql = `INSERT INTO ${this.table} (${columns}) VALUES ('${values}') returning *`;
-    console.log(sql);
+  parametrizedSqlGenerator(dict) {
+    const columns = Object.keys(dict).join(', ');
+    const values = Object.values(dict);
+
+    let new_vars = [];
+    let i = 1;
+    while (i < values.length + 1) {
+      new_vars.push('$' + i.toString());
+      i++;
+    }
+    return [columns, values, new_vars];
+  }
+
+  insert(dict) {
+    const [columns, values, new_vars] = this.parametrizedSqlGenerator(dict);
+    const sql = `INSERT INTO ${this.table} (${columns}) VALUES (${new_vars}) returning *`;
     return new Promise((resolve, reject) => {
-      pool.query(sql, (err, res) => {
+      pool.query(sql, values, (err, res) => {
         if (err) {
           reject(err);
         } else {
@@ -81,34 +95,57 @@ class Orm {
     });
   }
 
-update(column, value, whereColumn, where) {
-    const sql = `UPDATE ${this.table} SET ${column}='${value}' WHERE ${whereColumn}='${where}';`;
-    console.log(sql);
-    pool.query(sql, (err, res) => {
-      console.log(err, res);
+  update(column, value, whereColumn, where) {
+    const sql = `UPDATE ${this.table} SET ${column}='${value}' WHERE ${whereColumn}=$1;`;
+    const values = [where];
+    // console.log(sql);
+    pool.query(sql, values, (err, res) => {
+      // console.log(err, res);
     });
   }
 
-  updateWithScript(column, value, whereColumn, where) {
-    const sql = `UPDATE ${this.table} SET ${column}=${value} WHERE ${whereColumn}='${where}';`;
-    console.log(sql);
-    pool.query(sql, (err, res) => {
-      console.log(err, res);
-    });
-  }
-  delete(condition) {
-    const sql = `DELETE FROM ${this.table} WHERE ${condition}`;
-    console.log(sql);
-    pool.query(sql, (err, res) => {
-      console.log(err, res);
+  updateAll(dict, where) {
+    const [columns, values, new_vars] = this.parametrizedSqlGenerator(dict);
+    // console.log(values.length);
+    let sql = `UPDATE ${this.table} SET  (${columns}) = (${new_vars}) WHERE id=${where};`;
+    if (values.length == 1) {
+      sql = `UPDATE ${this.table} SET  ${columns} = ${new_vars} WHERE id=${where};`;
+    }
+
+    // console.log(sql);
+    pool.query(sql, values, (err, res) => {
+      // console.log(err, res);
     });
   }
 
-  deleteImage(whereColumn, where) {
-    const sql = `DELETE FROM ${this.table} WHERE ${whereColumn}='${where}';`;
-    console.log(sql);
-    pool.query(sql, (err, res) => {
-      console.log(err, res);
+  delete(column, where) {
+    const sql = `DELETE FROM ${this.table} WHERE ${column} = $1`;
+    const values = [where];
+    //  console.log(sql);
+    return new Promise((resolve, reject) => {
+      pool.query(sql, values, (err, res) => {
+        if (err) {
+          reject(err);
+        } else {
+          resolve(res);
+        }
+      });
+    });
+  }
+
+  search(column, where) {
+    const sql = `SELECT ${column} FROM ${this.table} WHERE ${column} LIKE $1`;
+    const values = [where];
+    // console.log(sql);
+    // console.log(where);
+    return new Promise((resolve, reject) => {
+      pool.query(sql, values, (err, res) => {
+        if (err) {
+          reject(err);
+        } else {
+          resolve(res);
+        }
+      });
     });
   }
 
@@ -116,7 +153,7 @@ update(column, value, whereColumn, where) {
     const sql = `SELECT COUNT(${column})
     FROM ${this.table}
     WHERE ${condition}`;
-    console.log(sql);
+    // console.log(sql);
     return new Promise((resolve, reject) => {
       pool.query(sql, (err, res) => {
         if (err) {
@@ -127,13 +164,6 @@ update(column, value, whereColumn, where) {
       });
     });
   }
-
-  // columnMaker(columnsList) {
-
-  // }
-  // valuesMaker(valuesList) {
-
-  // }
 }
 
 module.exports = Orm;

@@ -1,25 +1,20 @@
 const Orm = require('./Orm');
-const Notification = require('./Notification')
+const Photo = require('./Photo');
+const Notification = require('./Notification');
 
 class VisitHistory extends Orm {
   constructor() {
     super('visitHistory', 'id');
   }
 
-  async getVisitHistoryFromUser(id) {
-    const response = await this.getAllFields(this.table, 'user_id', id);
-    return response.rows[0];
-  }
-
-  createVisitHistory(visitHistoryDict) {
-    const columns = Object.keys(visitHistoryDict).join(', ');
-    const values = Object.values(visitHistoryDict).join("', '");
-    console.log(`INSERT INTO ${this.table} (${columns}) VALUES ('${values}')`);
-    this.insert(columns, values);
-    Notification.createNotification({
-      category: 'visit profile',
-      user_id: visitHistoryDict.user_id,
-      sender_id:  visitHistoryDict.visitor_id ,
+  async createVisitHistory(user_id, sender_id) {
+    this.insert({ user_id, visitor_id: sender_id });
+    const user2_pic = await Photo.getAllWhere('uri', 'user_id=' + sender_id + ' AND num=0');
+    Notification.insert({
+      category: 'visit',
+      user_id: user_id,
+      sender_id: sender_id,
+      sender_pic: user2_pic.rows[0].uri,
     });
   }
 }

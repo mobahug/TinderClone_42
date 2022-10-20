@@ -1,32 +1,29 @@
 const Orm = require('./Orm');
-
+const pool = require('./db');
 class Tag extends Orm {
   constructor() {
     super('tag', 'id');
   }
 
-  async getTag(id) {
-    const response = await this.getAllFields(this.table, 'id', id);
+  async getTagName(name) {
+    const response = await this.getAllFields('name', name);
+    return response.rows[0];
+  }
+  async searchTag(name) {
+    const response = await this.search('name', name + '%');
     return response.rows[0];
   }
 
-  createTag(tagDict) {
-    const columns = Object.keys(tagDict).join(', ');
-    const values = Object.values(tagDict).join("', '");
-    console.log(`INSERT INTO ${this.table} (${columns}) VALUES ('${values}')`);
-    this.insert(columns, values);
-  }
-
-  getTopTags() {
-    sql =`SELECT tag.name, count(*) as count
+  async getTopTags() {
+    const sql = `SELECT tag.name, count(*) as count
     FROM tag
              JOIN usersTag
                   ON tag.id=usersTag.tag_id
              JOIN users
                   ON usersTag.user_id=users.id
     GROUP BY tag.name
-    ORDER BY count desc LIMIT 3`
-    console.log(sql);
+    ORDER BY count desc LIMIT 5`;
+    // console.log(sql);
     return new Promise((resolve, reject) => {
       pool.query(sql, (err, res) => {
         if (err) {
@@ -37,9 +34,6 @@ class Tag extends Orm {
       });
     });
   }
-  //   getAllTags() {
-
-  //   }
 }
 
 module.exports = new Tag();

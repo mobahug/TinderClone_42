@@ -1,0 +1,5 @@
+.DS_Store
+log
+node_modules/
+userGenerated_DB.json
+server/public/*

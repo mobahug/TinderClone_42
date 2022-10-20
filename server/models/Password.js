@@ -16,7 +16,6 @@ class Password {
     return hashedPassword;
   }
 
-  // eslint-disable-next-line class-methods-use-this
   async verifyPassword(plaintextPassword, hash) {
     const isSame = await bcrypt.compare(plaintextPassword, hash);
 

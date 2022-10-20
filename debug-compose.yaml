@@ -1,0 +1,12 @@
+version: '3.6'
+
+services:
+  app: 
+    build: .
+    ports:
+      - "3000:3000" 
+      - "9229:9229"
+    command:
+      - node
+      - "--inspect-brk=0.0matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17)matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17)matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17)matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17)matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17)matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17)matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17)matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17)matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17)matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17)matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17)matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17)matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17)matcha_server |     at FilterFormValidator.validate (/home/node/server/validators/Form/FormValidator.js:10:17).0.0"
+      - "." 

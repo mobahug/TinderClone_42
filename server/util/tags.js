@@ -1,12 +1,3 @@
-/* eslint-disable no-await-in-loop */
-/* eslint-disable no-unreachable-loop */
-/* eslint-disable consistent-return */
-/* eslint-disable guard-for-in */
-/* eslint-disable no-restricted-syntax */
-/* eslint-disable no-bitwise */
-/* eslint-disable no-undef */
-/* eslint-disable camelcase */
-
 const { promises: fsPromises } = require('fs');
 const tags = require('../models/Tag');
 
@@ -16,13 +7,13 @@ async function asyncReadFile(filename) {
     const arr = contents.split(/\r?\n/);
 
     for (const block in arr) {
-      tags.createTag({
+      tags.insert({
         name: arr[block],
       });
     }
   } catch (err) {
-    console.log(err);
+    // console.log(err);
   }
 }
 
-asyncReadFile('../tags.txt');
+asyncReadFile('./tags.txt');

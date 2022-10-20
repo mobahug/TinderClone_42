@@ -2,88 +2,71 @@ const jwt = require('jsonwebtoken');
 const bcrypt = require('bcrypt');
 const express = require('express');
 const User = require('../models/User');
-const geoip = require('geoip-lite');
-
-// const validInfo = require('../middleware/validInfo');
-
+const UsersTag = require('../models/UsersTag');
+const Photo = require('../models/Photo');
+const LoginValidator = require('../validators/Form/LoginFormValidator');
 const router = express.Router();
+require('dotenv').config();
 
-function jwtGenerator(username, id) {
+function jwtGenerator(username, id, expiresIn) {
   const payload = {
     username,
     id,
   };
-
-  return jwt.sign(payload, 'secretsauce', { expiresIn: '1h' });
+  return jwt.sign(payload, process.env.SECRET, { expiresIn });
 }
 
-// eslint-disable-next-line no-unused-vars
-module.exports = (params) => {
-  // router.post('/', async (request, response) => {
-  //   const { username, password } = request.body;
-
-  //   const user = await User.getUserByName(username);
-  //   if (!user) return false;
-  //   if (!username) return false;
-  //   if (!password) return false;
-  //   const pw = '$2b$10$hCCI81evzr1Bk2sgviOZ0.FVhlE6PQM1PKVvlmSwQgpRPonj3UC02';
-  //   // if (!user.password) return false;
-  //   // const passwordCorrect = user === null ? false : await bcrypt.compare(password, pw);
-
-  //   const passwordCorrect = await bcrypt.compare(password, pw);
-
-  //   // const passwordCorrect = await Password.verifyPassword(password, user.password);
-  //   console.log(passwordCorrect);
-  //   if (!(user && passwordCorrect)) {
-  //     return response.status(401).json({
-  //       error: 'invalid username or password',
-  //     });
-  //   }
-
-  //   const userForToken = {
-  //     username: user.username,
-  //     id: user.id,
-  //   };
-  //   const token = jwt.sign(userForToken, 'adsadaq24');
-
-  //   response.status(200).send({ token, username: user.username, id: user.id });
-
-  //   return true;
-  // });
-
-  const getData = async () => {
-    const res = await axios.get('https://geolocation-db.com/json/')
-    console.log(res.data);
-    setIP(res.data.IPv4)
-  }
-
-
-
-  router.post('/', async (req, res) => {
+module.exports = () => {
+  router.post('/', LoginValidator.validate, errorLogger, async (req, res) => {
     const { username, password } = req.body;
-
     try {
-      const user = await User.getUserByName(username);
+      let resp = await User.getUserByName(username);
+      let user = resp.rows[0];
+
+      let withoutPicsOrTags = false;
       if (!user) {
-        res.status(401).json('Invalid Credential');
+        withoutPicsOrTags = true;
+        resp = await User.getAllFields('username', username);
       }
-     User.updateIpLocation(user.id, req.body.ipLatitude, req.body.ipLongitude);
-     User.updateLoggedIn(user.id)
-
-      const validPassword = await bcrypt.compare(password, user.password);
-      console.log(validPassword);
+      user = resp.rows[0];
+      // console.log(user);
+      if (!user) {
+        // console.log('no user');
+        res.status(401).json('Invalid Credentials');
+        return;
+      }
+      const user_pw = await User.getPassword(user.id);
+      const validPassword = await bcrypt.compare(password, user_pw);
       if (!validPassword) {
-        res.status(401).json('Invalid Credential');
+        // console.log('not valid pw');
+        res.status(401).json('Invalid Credentials');
+        return;
       }
-      // if (!user.active) {
-      //   res.status(401).json('User is not active');
-      // }
+      // console.log(user.active);
+      if (!user.active) {
+        // console.log('user not active');
+        res.status(401).json('User is not active');
+        return;
+      }
+      let tags = '';
+      let photos = '';
 
-      const jwtToken = jwtGenerator(user.username, user.id);
-      res.json({ jwtToken });
+      if (!withoutPicsOrTags) {
+        let results = await UsersTag.getTags(user.id);
+        tags = results.rows;
+        results = await Photo.getPhotoFromUser(user.id);
+        photos = results;
+      }
+
+      User.updateIpLocation(user.id, req.body.ipLatitude, req.body.ipLongitude);
+      User.updateLoggedIn(user.id);
+      const refreshtoken = jwtGenerator(user.username, user.id, '1d');
+      User.update('refreshtoken', refreshtoken, 'id', user.id);
+      const jwtToken = jwtGenerator(user.username, user.id, '1d');
+      res.json({ jwtToken, user, refreshtoken, photos, tags });
     } catch (err) {
       console.error(err.message);
-      // res.status(500).send('Server error');
+      res.status(500).send('Server error');
     }
   });
 

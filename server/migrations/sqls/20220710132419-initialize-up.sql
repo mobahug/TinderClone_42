@@ -1,6 +1,6 @@
 CREATE TYPE gender AS ENUM ('male', 'female');
 CREATE TYPE preference AS ENUM ('male', 'female', 'both');
-CREATE TYPE category AS ENUM ('liked', 'visit profile', 'received message', 'match', 'unliked', 'blocked');
+CREATE TYPE category AS ENUM ('liked', 'visit',  'match', 'unliked');
 create extension if not exists cube;
 create extension if not exists earthdistance;
 
@@ -16,15 +16,16 @@ CREATE TABLE IF NOT EXISTS users (
     active BOOLEAN DEFAULT false,
     activation_code VARCHAR(255) NOT NULL,
     lost_password_code VARCHAR(255) NULL,
-    preference preference,
+    preference preference DEFAULT 'both',
+    refreshtoken VARCHAR(255),
     gender gender,
-    latitude DOUBLE PRECISION,
-    longitude DOUBLE PRECISION,
+    latitude DOUBLE PRECISION DEFAULT 60.192059,
+    longitude DOUBLE PRECISION DEFAULT 24.945831,
     ip_latitude DOUBLE PRECISION,
     ip_longitude DOUBLE PRECISION,
-    birthdate DATE,
+    birthdate DATE DEFAULT '2000-01-01',
     fame INTEGER DEFAULT 100,
-    bio VARCHAR(500),
+    bio VARCHAR(500) DEFAULT '',
     wants_to_be_positioned BOOLEAN DEFAULT true
 );
 
@@ -63,6 +64,7 @@ CREATE TABLE IF NOT EXISTS photos (
       id SERIAL PRIMARY KEY,
       uri  VARCHAR(255),
       is_profile BOOLEAN DEFAULT FALSE,
+      num SMALLINT,
       path VARCHAR(255) UNIQUE,
       user_id SERIAL,
       CONSTRAINT fk_user
@@ -75,7 +77,8 @@ CREATE TABLE IF NOT EXISTS notification (
     category category,
     creation_date TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     user_id SERIAL,
-    is_read BOOLEAN DEFAULT FALSE, 
+    sender_pic VARCHAR(255),
+    is_read BOOLEAN DEFAULT FALSE,
     CONSTRAINT fk_user
         FOREIGN KEY(user_id)
         REFERENCES users(id)
@@ -88,13 +91,13 @@ CREATE TABLE IF NOT EXISTS notification (
 
 CREATE TABLE IF NOT EXISTS visitHistory (
     id SERIAL PRIMARY KEY,
-    user_id SERIAL,
+    user_id SERIAL NOT NULL,
     creation_date TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     CONSTRAINT fk_user
         FOREIGN KEY(user_id)
         REFERENCES users(id)
         ON DELETE CASCADE,
-        visitor_id SERIAL,
+    visitor_id SERIAL NOT NULL,
     CONSTRAINT fk_visitor
         FOREIGN KEY(visitor_id)
         REFERENCES users(id)
@@ -104,6 +107,9 @@ CREATE TABLE IF NOT EXISTS conversation (
     id SERIAL PRIMARY KEY,
     user_id1 SERIAL,
     blocked BOOLEAN DEFAULT false,
+    user1_pic VARCHAR(255),
+    user2_pic VARCHAR(255),
+    last_message VARCHAR(255),
     CONSTRAINT fk_user
         FOREIGN KEY(user_id1)
         REFERENCES users(id)
@@ -117,16 +123,11 @@ CREATE TABLE IF NOT EXISTS conversation (
 CREATE TABLE IF NOT EXISTS messages (
     id SERIAL PRIMARY KEY,
     message VARCHAR(255),
-    is_read BOOLEAN DEFAULT FALSE, 
+    is_read BOOLEAN DEFAULT FALSE,
     creation_date TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     user_id SERIAL,
     CONSTRAINT fk_user
         FOREIGN KEY(user_id)
-        REFERENCES users(id)
-        ON DELETE CASCADE,
-    sender_id SERIAL,
-    CONSTRAINT fk_sender
-        FOREIGN KEY(sender_id)
         REFERENCES users(id)
         ON DELETE CASCADE,
     conversation_id SERIAL,
@@ -148,9 +149,5 @@ CREATE TABLE likes (
         REFERENCES users(id)
         ON DELETE CASCADE);
 
-CREATE TABLE testtable (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(10)
-);
 
 SELECT cron.schedule('0 0 * * *', $$update users set fame=0 where DATE_PART('day', now()-users.logged_in)>7$$);

@@ -1,29 +1,21 @@
 const Orm = require('./Orm');
+const Photo = require('./Photo');
+const Notification = require('./Notification');
 
 class Blocked extends Orm {
   constructor() {
     super('blocked', 'id');
   }
 
-  async getBlocked(id) {
-    const response = await this.getAllFields(this.table, 'id', id);
-    return response.rows[0];
-  }
+  async createBlocked(user_id, sender_id) {
+    if (
+      (await this.getAllWhere('id', 'user_id=' + sender_id + ' AND blocked_id =' + user_id)).rows
+        .length != 0
+    ) {
+      return;
+    }
 
-  createBlocked(tagDict) {
-    const columns = Object.keys(tagDict).join(', ');
-    const values = Object.values(tagDict).join("', '");
-    console.log(`INSERT INTO ${this.table} (${columns}) VALUES ('${values}')`);
-    this.insert(columns, values);
-    Notification.createNotification({
-      category: 'blocked',
-      user_id: likeDict.user_id,
-      sender_id:  likeDict.liker_id ,
-    });
-  }
-
-  getAllBlocked(id) {
-    return super.getAllWhere(`userid = ${id}`);
+    this.insert({ user_id: sender_id, blocked_id: user_id });
   }
 }
 
