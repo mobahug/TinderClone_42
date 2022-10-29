@@ -33,6 +33,16 @@
 ![explore2](https://user-images.githubusercontent.com/83179142/198826790-62ff4f6c-2062-46da-a02f-b828a8d7bfe9.gif)
 
 
+## Notifications
+
+  - Real time notifications and counter
+  - On click notification can check the other users profile
+  - Delete all notification functionalities
+
+
+![notification](https://user-images.githubusercontent.com/83179142/198826956-94eee05a-f84e-4c93-b3f9-c1f2a289e2db.gif)
+
+
 ## Installation:
 
 Get docker [Docker](https://www.docker.com/) .
