@@ -4,6 +4,18 @@
 
 ### Matcha is a dating webapplication using modern languages and tools.
 
+Matcha is a dating website just like Tinder and we added a tons of feature what we believed a must have for a dating website.
+Such as, real time notification and chat with socket.io, advance filter search, map with location update, etc.
+Created in duo in 4.5month.
+Made own ORM, validation and random usergenerator to populate the application, handle easier queryies, and get the right information.
+
+## Tools & languages
+
+PostgreSQL, React, Express, MUI, Nodejs,
+Docker, pgadmin, DataGrip, Asana, Lucidchart,
+CSS, HTML
+
+
 # Features:
 
 ## Loging in and View Single Match
@@ -46,14 +58,14 @@
 ## Chat
 
   - Once liked two user each other get a chat box on the conversation list
-  - showing the other user profile picture and username
-  - last message
-  - in case of closing the conversation the user will be disliked/blocked
-  - chat messages shows realtime
-  - showing new message old message
-  - multiple line row textfield to make easier see through what user sending
-  - chat users profile picture username
-  - message sent time
+  - Showing the other user profile picture and username
+  - Last message
+  - In case of closing the conversation the user will be disliked/blocked
+  - Chat messages shows realtime
+  - Showing new message old message
+  - Multiple line row textfield to make easier see through what user sending
+  - Chat users profile picture username
+  - Message sent time
 
 
 ![chat](https://user-images.githubusercontent.com/83179142/198827405-2aa342ed-1a04-4b01-ad24-c6d2d0a765c0.gif)
@@ -67,9 +79,29 @@
 ![chatnotif](https://user-images.githubusercontent.com/83179142/198827675-2e7ecbe2-526d-48e6-b4ef-79724760ebb8.gif)
 
 
+## Profile
+
+  - Change basic informations like username, password, email, firstname/lastname
+  - Add more details like gender, preference, birthdate, bio
+  - If no gender tag or profile picture can not use the application aka can't get acces to search other users
+  - Add tags, no duplication,
+  - Trending tags based on other users most used tags
+  - Upload image to cards
+  - Remove them
+  - Profile picture marked
+  - Real time save
+  - Geolocation
+  - Updated by clicking on the map somewhere
+  - Get the logged in user coordinates and updating locations by click to the button
+  - Zoom
 
 
-## Installation:
+![profile](https://user-images.githubusercontent.com/83179142/198827861-3e33f0bd-aa84-4595-b333-093ab0df20a7.gif)
+
+
+
+
+# Installation:
 
 Get docker [Docker](https://www.docker.com/) .
 
