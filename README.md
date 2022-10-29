@@ -16,10 +16,21 @@
   - In case of more images, image slide show
   - User offline/online bar
   - Basic infos, fame, distance based on geolocation coordinates
+  - Report user
+  - Advance filter search
 
 
 ![viewmatch](https://user-images.githubusercontent.com/83179142/198826445-922df611-b4cb-4ce7-b08c-dfd8e860156f.gif)
 
+
+## Explore people
+
+  - Explore other people
+  - Advance filter search with more option
+  - On click check each profile
+
+
+![explore2](https://user-images.githubusercontent.com/83179142/198826790-62ff4f6c-2062-46da-a02f-b828a8d7bfe9.gif)
 
 
 ## Installation:
