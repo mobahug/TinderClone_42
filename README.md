@@ -43,6 +43,32 @@
 ![notification](https://user-images.githubusercontent.com/83179142/198826956-94eee05a-f84e-4c93-b3f9-c1f2a289e2db.gif)
 
 
+## Chat
+
+  - Once liked two user each other get a chat box on the conversation list
+  - showing the other user profile picture and username
+  - last message
+  - in case of closing the conversation the user will be disliked/blocked
+  - chat messages shows realtime
+  - showing new message old message
+  - multiple line row textfield to make easier see through what user sending
+  - chat users profile picture username
+  - message sent time
+
+
+![chat](https://user-images.githubusercontent.com/83179142/198827405-2aa342ed-1a04-4b01-ad24-c6d2d0a765c0.gif)
+
+
+## Chat notification
+
+  - Chat notifications shows realtime
+
+
+![chatnotif](https://user-images.githubusercontent.com/83179142/198827675-2e7ecbe2-526d-48e6-b4ef-79724760ebb8.gif)
+
+
+
+
 ## Installation:
 
 Get docker [Docker](https://www.docker.com/) .
